@@ -3,7 +3,7 @@
 These settings are intended to be used by any workflow that supports **Microsoft Edge / Bing TTS** voice selection.
 
 ## Default voice (male)
-- **Voice:** `en-US-GuyNeural`
+- **Voice:** `en-US-DavidNeural`
 - **Language:** en-US
 - **Style:** Neutral / Standard
 - **Suggested speaking rate:** 1.0x

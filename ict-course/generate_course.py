@@ -159,13 +159,13 @@ def make_pdf_slides(lesson_id: str, lesson_dir: Path) -> list[Path]:
         page_img = Image.open(src).convert("RGB")
         pw, ph = page_img.size
         target_w, target_h = 1920, 1080
-        scale = min(target_w / pw, target_h / ph)
-        new_w = int(pw * scale)
+        scale = target_w / pw
+        new_w = target_w
         new_h = int(ph * scale)
         page_img = page_img.resize((new_w, new_h), Image.LANCZOS)
 
         canvas = Image.new("RGB", (target_w, target_h), (11, 15, 26))
-        x_offset = (target_w - new_w) // 2
+        x_offset = 0
         y_offset = (target_h - new_h) // 2
         canvas.paste(page_img, (x_offset, y_offset))
 

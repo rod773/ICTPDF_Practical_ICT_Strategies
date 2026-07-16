@@ -53,60 +53,6 @@
       "start": 48.0,
       "duration": 6.0,
       "image": "slide-09.png"
-    },
-    {
-      "index": 10,
-      "start": 54.0,
-      "duration": 6.0,
-      "image": "slide-10.png"
-    },
-    {
-      "index": 11,
-      "start": 60.0,
-      "duration": 6.0,
-      "image": "slide-11.png"
-    },
-    {
-      "index": 12,
-      "start": 66.0,
-      "duration": 6.0,
-      "image": "slide-12.png"
-    },
-    {
-      "index": 13,
-      "start": 72.0,
-      "duration": 6.0,
-      "image": "slide-13.png"
-    },
-    {
-      "index": 14,
-      "start": 78.0,
-      "duration": 6.0,
-      "image": "slide-14.png"
-    },
-    {
-      "index": 15,
-      "start": 84.0,
-      "duration": 6.0,
-      "image": "slide-15.png"
-    },
-    {
-      "index": 16,
-      "start": 90.0,
-      "duration": 6.0,
-      "image": "slide-16.png"
-    },
-    {
-      "index": 17,
-      "start": 96.0,
-      "duration": 6.0,
-      "image": "slide-17.png"
-    },
-    {
-      "index": 18,
-      "start": 102.0,
-      "duration": 6.0,
-      "image": "slide-18.png"
     }
   ]
 }
