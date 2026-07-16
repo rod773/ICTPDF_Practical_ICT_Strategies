@@ -372,7 +372,9 @@ def main():
     ensure_dir(COURSE_ROOT)
 
     if args.all:
-        ids = [f"{i:02d}" for i in range(1, 11)]
+        ids = [f"{i:02d}" for i in range(1, 25)]
+    elif args.lesson and args.lesson.lower() == "phase2":
+        ids = [f"{i:02d}" for i in range(11, 25)]
     elif args.lesson is not None:
         n = int(args.lesson)
         ids = [f"{n:02d}"]

@@ -1,0 +1,2267 @@
+---PAGE 61---
+You are done with 
+PD-Array. Now move 
+to next Learning 
+Block.
+57
+
+---PAGE 62---
+Liqui
+dity 
+Zones
+3. 
+Institutional 
+Liquidity 
+Zones
+58
+
+---PAGE 63---
+Liquidity zones are basically areas on price chart where most of the 
+stop orders are resting and the smart money mostly try to sweep this 
+liquidity.
+
+Identifying these liquidity zones can help you capitalize the potential 
+price move toward liquidity.
+
+List of these ICT liquidity zones is given below:
+
+1 : Buy & Sell Side Liquidity
+2 : High & Low Resistance Liquidity
+3 : Internal and External Range Liquidity
+4 : Liquidity Sweep and Liquidity Run
+5 : ICT Liquidity Pool
+6 : ICT Liquidity Void
+
+
+
+
+
+
+
+
+
+Now Let’s Go for Each Concept of Institutional Liquidity Zones 
+Explained in Individual Chapters.
+Institutional Liquidity Zones
+59
+
+---PAGE 64---
+The word Liquidity itself means convertible to cash. Liquidity of an 
+asset is marked high if it can easily be sold and converted to cash 
+while in trading liquidity means availability of willing buyers and sellers 
+at market price.
+
+Buy Side Liquidity according to ICT is the volume of pending buy orders 
+(Buy Stops).
+
+When traders execute a sell order mostly they want to protect it with a 
+buy order in case price moves against them. So they use buy stop to 
+protect their capital and hedge against loss.
+
+Any one selling at a price level will have a buy stop placed above that 
+price. So buy stops rest above highs and that is why the old highs like 
+week’s high, day’s high or equal highs are termed as buy side liquidity.
+
+And the market makers try to grab these highs to convert the pending 
+orders into market orders and then move the price against them. In 
+this way they make profit from retail traders and this is termed 
+as Liquidity Hunt.
+Buy & Sell Side Liquidities
+**Liquidity Zones**
+60
+
+---PAGE 65---
+Sell side liquidity as defined by the Michael, refers to the accumulation 
+of pending sell orders, particularly sell stop orders.
+
+When traders initiate buy orders, they often seek to safeguard their 
+positions by placing corresponding sell orders to mitigate potential 
+losses.
+
+Sell stop orders serve as a protective mechanism, activated if the price 
+declines beyond a certain threshold.
+
+Typically, traders position sell stop orders below significant price levels, 
+such as historical lows, including weekly lows, daily lows, or equivalent 
+benchmarks.
+
+These levels are deemed to contain sell side liquidity due to the 
+concentration of pending sell orders.
+
+Market makers attempt to exploit this liquidity by targeting these 
+established lows to trigger the activation of sell stop orders, effectively 
+converting them into market orders.
+
+Subsequently, they capitalize on this influx of market orders to 
+manipulate the market in the opposite direction, thereby profiting from 
+the actions of retail traders.
+
+In essence, the concept of sell side liquidity underscores the strategic 
+interplay between traders and market makers, with sell stop orders 
+serving as pivotal instruments in this dynamic process.
+61
+
+---PAGE 66---
+High & Low resistance 
+Liquidities
+An old high having so many swing highs defending it and the old low 
+having so many swing lows defending it is termed as high resistance 
+liquidity.
+
+A high resistance liquidity run (HRLR) occurs when the price struggles 
+to sweep out liquidity and takes a long time to reach an old swing high 
+or swing low.
+
+This situation arises when a liquidity level is defended by multiple 
+resistance levels like the short term highs and lows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The short term swing highs and lows forming between an old high and 
+low are termed as low resistance liquidity because these highs and 
+lows are easy to sweep out.
+
+In contrast to a High Resistance Liquidity Run, a Low Resistance 
+Liquidity Run occurs when there is aggressive acceleration in price 
+movement, leaving behind liquidity voids or fair value gaps (FVG).
+
+**Liquidity Zones**
+62
+
+---PAGE 67---
+In this scenario, the price moves quickly and easily through areas of 
+liquidity due to the presence of fewer resistance points.
+63
+
+---PAGE 68---
+Internal & External Range 
+Liquidities
+To understand the internal and external range liquidity you have to 
+know about the ICT dealing range.
+
+ICT Dealing Range
+
+Internal and external range liquidities are identified inside and outside 
+of a price range which is called dealing range.
+
+ICT dealing range is basically the area between an established Swing 
+High (which has taken the liquidity of an old high) and an 
+established Swing Low (which has taken the liquidity of an old low).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Liquidity Zones**
+64
+
+---PAGE 69---
+Anything in between an ICT dealing range is termed as internal range.
+But the only the Fair Value Gap is marked as the ICT internal range 
+liquidity.
+
+Now you may question “why only the fair value gap is marked as 
+internal range liquidity” not the highs, low, or order blocks?
+
+
+CT Fair Value Gap is marked as the liquidity because it is a formation of 
+three candles leaving an area between high and low of 1st and 3rd 
+candle where price do not overlap.
+
+So the high and low of the candle forming the fair value gap is basically 
+an established low and a liquidity level in lower time frame.
+
+When price moves to balance the fair value gap it basically sweeps the 
+liquidity in lower time frame that is why fair value gap is termed as ICT 
+internal range liquidity.
+65
+
+---PAGE 70---
+The swing high and swing low of an ICT dealing range are termed as 
+external range.
+
+The high of an ICT dealing range is termed as “buy side liquidity” 
+assuming the buy stops rest above the high of dealing range.
+
+While the low of an ICT dealing range is known as “sell side liquidity” 
+assuming the sell stops resting below the low of dealing range.
+66
+
+---PAGE 71---
+67
+
+---PAGE 72---
+Mostly the retail traders buy or sell at market price while the smart 
+money buys below market price and sells above the market price. You 
+have to look where the most retail traders be willing to buy or sell. 
+
+Mostly they will be buying above an old high after breakout and selling 
+below the old low as a breakout trade.
+
+Or if they already bought they will put their sell stop below old low to 
+mitigate their loss and if they already sold they will put their buy stop 
+above an old high.
+
+So the old highs have a pool of liquidity resting above them in the form 
+of buy stops and the wiling buyers to buy after breakout.
+
+And old lows have a pool of liquidity resting below them in the form of 
+sell stops or willing sellers at market price after breakout of low.
+Liquidity Pool
+**Liquidity Zones**
+68
+
+---PAGE 73---
+The word Liquidity means willing buyers/sellers in the market.
+
+While the word Void means absence of something. So ICT liquidity void 
+means absence of buyers or sellers in the market as the case may be.
+
+When price breaks a consolidation phase and moves in one direction 
+strongly without a retracement or wick inside prior candlestick range, 
+then the imbalance created by the candlesticks is known as ICT 
+Liquidity void.
+Liquidity Void
+**Liquidity Zones**
+69
+
+---PAGE 74---
+Liquidity Sweep and Liquidity 
+Run
+An ICT liquidity sweep refers to a price movement designed to capture 
+liquidity before reversing direction.
+
+For instance, the price may aim for equal highs, targeting buy-side 
+liquidity, and momentarily surpass these highs but fail to close above 
+them, subsequently reversing.
+
+Alternatively, if the price closes above the highs, it quickly reverses 
+with strong selling momentum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Liquidity Zones**
+70
+
+---PAGE 75---
+Liquidity run occurs when the price moves in the direction of the 
+prevailing trend, targeting liquidity and continuing its movement.
+
+For example, in a bullish market, the price may aim for a previous high, 
+capture the liquidity there, and then continue rising to reach a new 
+high. Conversely, in a bearish market, the price may target a previous 
+low, capture the liquidity, and then continue falling to reach a new low.
+71
+
+---PAGE 76---
+Liquidity zones are 
+basically areas on 
+price chart where 
+most of the stop 
+orders are resting and 
+the smart money 
+mostly try to sweep 
+this liquidity.
+72
+
+---PAGE 77---
+You are done with 
+Liquidity Zones. Now 
+move to next 
+Learning Block.
+73
+
+---PAGE 78---
+Mar
+ket 
+Profi
+les
+4. 
+Market 
+Profiles
+74
+
+---PAGE 79---
+Market profile trading examines financial markets by offering a unique 
+perspective on market behavior. It focuses on the relationship between 
+price and time.
+
+It provides traders with insights into the market’s:
+
+· Structure
+· Price distribution
+· Trading activity happening over a specific period
+
+
+List of ICT market profiles is given below:
+
+1 : Master ICT Weekly Profiles.
+
+2 : ICT Intraday Profiles.
+
+3 : ICT Daily Bias.
+
+4 : ICT Advance Market Structure.
+
+5 : ICT Market Maker Buy & Sell Mode.
+
+6 : ICT Judas Swing.
+
+7 : IRL to ERL Price Move.
+
+8 : HRLR to LRLR.
+
+
+
+Now Let’s Go for Each Concept of Market Profile Explained in 
+Individual Chapters.
+Market Profiles
+75
+
+---PAGE 80---
+ICT weekly profiles are conceptual frameworks that describe typical 
+patterns of price behavior during a trading week.
+
+Each ICT weekly profile has unique characteristics that can hint the 
+traders in anticipating potential market movements.
+
+However, it is important to note that these profiles are not fix 
+predictions but rather frameworks to understand market tendencies.
+Each ICT weekly profile is explained below with examples:
+
+(I) Classic Tuesday Low of the Week
+
+Bullish Profile : 
+
+When price is bullish it may manipulate on Monday and hover above a 
+higher a higher time frame discount array.
+
+Then on Tuesday it drops into higher time frame discount array to form 
+low of the week.
+ Weekly Profiles
+**Market Profiles**
+76
+
+---PAGE 81---
+To anticipate all this phenomenon you should know the higher time 
+frame discount array. When the market fails to drop into the discount 
+array on Monday then its most likely that Tuesday will see the drive 
+lower to mark weekly low in London or New York session.
+
+(II) Classic Tuesday High of the Week
+
+When price is bearish it may manipulate on Monday and hover below a 
+higher time frame premium array. Then on Tuesday it rises into higher 
+time frame premium array to form high of the week.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77
+
+---PAGE 82---
+To anticipate all this phenomenon you should know the higher time 
+frame Premium array.
+
+When the market fails to rise into the premium array on Monday then 
+its most likely that Tuesday will se the drive higher to mark weekly high 
+in London or New York session.
+
+(III) Wednesday Low of the Week
+
+Bullish Profile : When price is bullish it may manipulate on Monday and 
+Tuesday and hover above a higher a higher time frame discount array.
+Then on Wednesday it drops into higher time frame discount array to 
+form low of the week.
+78
+
+---PAGE 83---
+To anticipate all this phenomenon you should know the higher time 
+frame Discount Array.
+
+When the market fails to drop into the discount array on Monday and 
+Tuesday then its most likely that Wednesday will se the drive lower to 
+mark weekly low in London or New York session.
+
+(IV) Wednesday High of the Week
+
+Bearish Profile : When price is bearish it may manipulate on monday 
+and tuesday and hover below a higher a higher time frame premium 
+array.
+
+Then on wednesday it rises into higher time frame premium array to 
+form high of the week.
+79
+
+---PAGE 84---
+To anticipate all this phenomenon, you should know the higher time 
+frame premium array.
+
+When the market fails to rise into the premium array on monday and 
+tuesday then its most likely that wednesday will se the drive higher to 
+mark weekly high in London or New York session.
+
+(V) Consolidation Thursday Bullish Reversal
+
+When price is bullish it may consolidate on monday through wednesday 
+then runs the intra-week low and rejects it forming a market reversal.
+80
+
+---PAGE 85---
+To anticipate this you must know the higher time frame discount array.
+
+And when price fails to drop into higher time frame discount array then 
+its likely that thursday will see drive lower on market driver news or 
+interest rate release late New York session around 02:00 PM (New York 
+local time).
+
+(VI) Consolidation Thursday Bearish Reversal
+
+When price is bearish it may consolidate on monday through 
+wednesday then runs the intra-week high and rejects it forming a 
+market reversal.
+81
+
+---PAGE 86---
+To anticipate this you must know the higher timeframe premium array.
+And when price fails to rise into higher timeframe premium array then 
+its likely that thursday will see drive higher on market driver news or 
+interest rate release late New York session around 02:00 PM (New York 
+local time).
+
+(VII) Consolidation Midweek Rally
+
+Bullish Profile : When price is bullish and consolidates monday through 
+wednesday then runs into intra-week high and expands higher into 
+friday.
+82
+
+---PAGE 87---
+How to Anticipate?
+
+When the price is bullish and has yet to run to premium array on the 
+higher timeframe and it has recently rallied from a discount array and 
+simply paused without any bearish reversal price action.
+
+This indicates price is about to expand higher for the premium array.
+
+(VIII) Consolidation Midweek Decline
+
+Bearish Profile : When price is bearish and consolidates monday 
+through wednesday then runs into intra-week low and expands lower 
+into friday.
+83
+
+---PAGE 88---
+How to Anticipate?
+
+When the price is bearish and has yet to run to discount array on the 
+higher timeframe and it has recently declined from a premium array 
+and simply paused without any bullish reversal price action.
+
+This indicates price is about to expand lower for the premium array.
+
+(IX) Seek and Destroy Bullish Friday
+
+Neutral-Low Probability Profile When price consolidates monday 
+through thursday running shallow stops under and above intra-week 
+high, then runs the intra-week high and expands higher into friday.
+84
+
+---PAGE 89---
+How to Anticipate?
+
+When market is awaiting interest rate announcements or Non-Farm 
+payroll, it can create this profile in the summer months of July and 
+august.
+
+Better to avoid trading in these conditions.
+
+(X) Seek and Destroy Bearish Friday
+
+Neutral-Low Probability Profile When price consolidates monday 
+through thursday running shallow stops under and above intra-week 
+high, then runs the intra-week low and expands lower into friday.
+85
+
+---PAGE 90---
+How to Anticipate?
+
+When market is awaiting interest rate announcements or Non-Farm 
+payroll, it can create this profile in the summer months of July and 
+august.
+
+Better to avoid trading in these conditions.
+
+(XI) Wednesday Weekly Bullish Reversal
+
+When price is bullish and consolidates monday through tuesday and 
+drives lower into higher timeframe discount array on wednesday to 
+induce sell stops and then strongly reverses.
+86
+
+---PAGE 91---
+How to Anticipate?
+
+When market is awaiting interest rate announcements or Non-Farm 
+payroll, it can create this profile in the summer months of July and 
+august.
+
+Better to avoid trading in these conditions.
+
+(XI) Wednesday Weekly Bullish Reversal
+
+When price is bullish and consolidates monday through tuesday and 
+drives lower into higher timeframe discount array on wednesday to 
+induce sell stops and then strongly reverses.
+87
+
+---PAGE 92---
+When the market is trading at the long term or intermediate term low, 
+price will pair institutional buying with pending sell side liquidity (sell 
+stops raid).
+
+(XII) Wednesday Weekly Bearish Reversal
+
+When price is bearish and consolidates monday through tuesday and 
+drives higher into higher time frame premium array on wednesday to 
+induce buy stops and then strongly reverses.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When the market is trading at the long term or intermediate term high, 
+price will pair institutional selling with pending buy side liquidity (buy 
+stops raid).
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+---PAGE 93---
+Weekly profiles are 
+conceptual 
+frameworks that 
+describe typical 
+patterns of price 
+behavior during a 
+trading week.
+89
+
+---PAGE 94---
+ICT daily bias is basically the anticipated direction of price for the day 
+which helps us to find and execute the trading opportunities.
+
+How to Find ICT Daily Bias?
+
+To find the ICT daily bias you just need to know about the ICT Market 
+Structure Shift . For the purpose of this trick we will be using only the 1 
+day timeframe to find the ICT daily bias.
+
+To determine the daily bias of an asset, start by examining its daily 
+chart.
+
+Look for the recent ICT Market Structure Shift on either side.
+
+ICT Bullish Daily Bias
+
+If price has shifted its structure to the buy-side recently then it will 
+indicate the bullish bias. But to trade the bullish bias you have to 
+follow the steps given below.
+
+(I) Find the Discount Zone or use ICT OTE Pattern sweet-spot.
+
+(II) Wait for price to trade back into ICT PD Array in discount area or 
+OTE sweet spot.
+
+(III) Note that, while trading back to discount area or ICT OTE sweet 
+spot price should not shift its structure to the sell-side.
+
+(IV) When price approaches the ICT discount area or Optimal Tarde 
+entry area, you can look for the confirmation like ICT market structure 
+shift to the up-side in lower time frame but not lower than 15 minutes.
+
+(V) Keep in mind, The higher the time frame of confirmation, the more 
+valid the confirmation will be.
+Daily Bias
+**Market Profiles**
+90
+
+---PAGE 95---
+ICT Bearish Daily Bias
+
+If the price has shifted its structure to the sell-side recently, it will 
+indicate a bearish bias.
+
+To trade the bearish bias, follow these simple steps:
+
+(I) Identify the Premium Zone or use the ICT OTE Pattern sweet spot.
+
+(II) Wait for the price to trade back into ICT PD array in premium area or 
+OTE sweet spot.
+
+(III) Note that, while trading back to the premium area or ICT OTE sweet 
+spot, the price should not shift its structure to the buy-side.
+91
+
+---PAGE 96---
+(IV) When the price approaches the ICT premium area or Optimal Trade 
+Entry area, look for confirmation like an ICT market structure shift to 
+the sell-side in a lower time frame, but not lower than 15 minutes.
+
+(V) Keep in mind that the higher the time frame of confirmation, the 
+more valid the confirmation will be.
+92
+
+---PAGE 97---
+Daily bias is basically 
+the anticipated 
+direction of price for 
+the day which helps 
+us to find and 
+execute the trading 
+opportunities.
+93
+
+---PAGE 98---
+ICT intraday profiles are conceptual frameworks that describe typical 
+patterns of price behavior during a specific time of a trading day.
+Intraday profiles depict the idea of daily high during a sell day and daily 
+low during a buy day.
+
+To understand the Intraday profiles, you should first know about the 
+ICT Central Bank Dealers Range:
+
+Central Bank Dealers Range - CBDR:
+
+ICT CBDR is an important central range of price ranging from 02:00 PM 
+to 08:00 PM New-York local time. That can be replicated above or 
+below using the standard deviation.
+
+Central bank dealers Range height can be measured using the high and 
+low of that price range, you may use wicks to measure the height or the 
+bodies of candlesticks, while the ICT prefers the bodies over wicks.
+
+Ideally central bank dealers range should be less than 40 pips 
+preferably not more than 20-30 pips.
+
+Range larger than 40 pips would be unfruitful and, on that day, you will 
+let price do what it wants to do except for scalp trades.
+Intraday Sell Profiles
+
+Intraday sell profile is further divided into two types based on London 
+session protraction, which are explained below.
+
+(I) London Normal Protraction -Sell Profile
+ 
+To trade ICT intraday sell profile having London session normal 
+protraction you have to check following:
+
+(I) Bearish directional Bias for the day.
+(II) Central Ban Dealer Range less than 40 pips.
+(III) Asian range should not be more than 20-30 pips (07:00 PM to 04:00 
+AM NY-Time)
+Intraday Profiles
+**Market Profiles**
+94
+
+---PAGE 99---
+(IV) Price rallies up after 12:00 AM to 02:00 AM (NY-Local time).
+
+(V) Protraction stage for judas swing should not be more than 2-3 
+Standard deviations of CBDR.
+
+If all the conditions for a London session normal protraction are right 
+then it’s a valid intraday sell profile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Trade London Normal Protraction -Sell Profile?
+
+Once you have checked all the conditions for London Normal 
+Protraction -Sell Profile, you are ready to take a sell trade.
+
+You will see a price rally just after 12:00 AM but a small little move 
+down before the rally is also acceptable.
+
+And the trade entry may form as early as 01:00 AM or after 02:00 AM.
+
+After London session protraction above CBDR wait for a ICT Market 
+Structure Shift in lower time frame like 5-Minutes or lower.
+ 
+After the MSS you can execute a sell trade in Premium with stop loss 
+above the London-session high.
+ 
+For take profit you can target the higher timeframe draw on liquidity or 
+any discount PD Array
+95
+
+---PAGE 100---
+How to Trade London Delayed Protraction Sell Profile?
+
+To Trade London delayed protraction, you have to wait until 02:00 AM 
+price rally. Once price rallies up after 02:00AM, you would mark the 
+recent ICT dealing range and find the premium PD-arrays.
+
+When price reaches the premium PD-array you can go short there or 
+you may wait for an ICT MSS in lower time frame for confirmation.
+
+In this scenario your stop loss will be above the ICT dealing range high 
+while for take profit you will target the discount PD-arrays or sell side 
+liquidity.
+
+96
+
+---PAGE 101---
+How to Trade London Delayed Protraction Sell Profile?
+
+To Trade London delayed protraction, you have to wait until 02:00 AM 
+price rally. Once price rallies up after 02:00AM, you would mark the 
+recent ICT dealing range and find the premium PD-arrays.
+
+When price reaches the premium PD-array you can go short there or 
+you may wait for an ICT MSS in lower timeframe for confirmation. In 
+this scenario your stop loss will be above the ICT dealing range high 
+while for take profit you will target the discount PD-arrays or sell side 
+liquidity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICT Intraday Buy Profiles
+
+ICT intraday buy profiles, based on the protraction behavior during the 
+London session, fall into two main types, which are detailed below.
+
+(I) London Normal Protraction – Buy Profile
+
+For trading an ICT intraday buy profile with a normal London session 
+protraction, review the following conditions:
+
+1. Bullish Directional Bias: Confirm a bullish bias for the day.
+2. CBDR (Central Bank Dealer Range): Should be under 40 pips.
+3. Asian Range: The range should ideally remain between 20-30 pips.
+4. Price Dip: Expect a price dip between 12:00 AM and 02:00 AM (NY-
+local time).
+5. Judas Swing Protraction: Should not exceed 2-3 standard deviations 
+of the CBDR.
+
+If all conditions align, it’s a valid intraday buy profile.
+
+
+97
+
+---PAGE 102---
+If any of these conditions diverge from this setup, it may not be an 
+optimal buy profile. In such cases, allow price action to develop 
+naturally, but you can still explore scalp trading opportunities.
+
+How to Trade a London Normal Protraction – Buy Profile
+
+Once you’ve confirmed the London Normal Protraction buy profile 
+conditions, look for the ideal buying opportunity. After 12:00 AM, price 
+should typically dip before a rally, though a slight move upward before 
+the dip is acceptable.
+
+Trade entries might present themselves as early as 01:00 AM or shortly 
+after 02:00 AM. After the London session price dips below the CBDR, 
+wait for a Market Structure Shift (MSS) on a lower timeframe, like the 
+5-minute chart.
+
+Enter a buy trade in Discount, placing your stop-loss below the London 
+session low. For take profit, target higher timeframe liquidity pools or 
+premium PD-arrays.
+98
+
+---PAGE 103---
+(II) London Delayed Protraction – Buy Profile
+
+This buy profile applies when price doesn’t dip as expected after 12:00 
+AM. Here, the London protraction is delayed, meaning price does not 
+drop immediately after 12:00 AM, though the overall directional bias 
+remains bullish. In this scenario, the IPDA (Interbank Price Delivery 
+Algorithm) will enter a protraction phase at or shortly after 02:00 AM.
+ 
+Focus on intraday Discount PD-arrays for entry on retracements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Trade a London Delayed Protraction – Buy Profile
+
+To trade a delayed protraction setup, watch for a price dip around 
+02:00 AM. Once price dips after 02:00 AM, mark the recent ICT dealing 
+range and locate the discount PD-arrays.
+
+As price nears the discount PD-array, you may either take a long 
+position or wait for an ICT MSS on a lower timeframe to confirm your 
+entry. In this case, set your stop-loss below the ICT dealing range low, 
+and for take profit, target the premium PD-arrays or buy-side liquidity.
+
+
+99
+
+---PAGE 104---
+Intraday profiles are 
+conceptual 
+frameworks that 
+describe typical 
+patterns of price 
+behavior during a 
+specific time of a 
+trading day.
+100
+
+---PAGE 105---
+What is Market Structure?
+
+Market structure refers to the framework within which a market is 
+trading at any given time. It provides insight into the market’s behavior, 
+condition, and current flow. 
+
+By swing highs and swing lows, market structure helps in 
+understanding the overall dynamics of the market.
+
+Market structure has three main types
+
+(I) Bullish Market Structure : means the consistently rising prices of an 
+asset which is indicated by the Higher long-term highs and higher long-
+term lows on the price chart.
+
+(II) Bearish Market Structure : means the consistently falling prices of 
+an asset which is indicated by the lower long-term lows and lower 
+long-term highs on the price chart.
+
+(III) Sideway Market Structure : means price is trading in a range and 
+making equal highs and equal lows.
+
+Now lets discuss the components of ICT market structure STH ITH and 
+LTH.
+
+(I) Short Term High – STH
+
+ICT STH-short term high is basically a ICT Swing High being a three 
+candle formation in such a way that the high(wick) of the 2nd(middle) 
+candle is higher than the high of both candles 1st on left and 3rd on 
+right of it.
+
+
+
+
+Example on Next Page..........
+Advance Market Structure
+**Market Profiles**
+101
+
+---PAGE 106---
+(II) Intermediate Term High – ITH
+
+The word intermediate refers to something that is in the middle or 
+between two stages. So the intermediate term high (ITH) is basically a 
+short term high but having a lower short term high on left and right 
+side of it.
+102
+
+---PAGE 107---
+(III) Long Term High – LTH
+
+An ICT long-term high (LTH) is also an intermediate term high by nature 
+but it is mostly formed at a higher time frame PD Array after a reaction 
+of price. A long term high (LTH) is indicated by an intermediate high in 
+the middle of two intermediate term highs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It is the highest intermediate term high having a lower intermediate 
+term high on the left and right side of it.
+
+In bullish market structure price will make higher long-term highs and 
+higher long-term lows. If price is supposed to go higher then it should 
+not violate the recent higher long-term low. But if it does so and breaks 
+the long-term low then it will no longer be bullish.
+
+(I) ICT Short Term Low(STL)
+
+ICT STL-short term low is basically a Swing Low being a three candle 
+formation in such a way that the low(wick) of the 2nd(middle) candle is 
+lower than the low of both candles 1st on left and 3rd on right of it.
+
+103
+
+---PAGE 108---
+(II) ICT Intermediate Term Low(ITL)
+
+The word intermediate refers to something that is in the middle or 
+between two stages. So the ICT intermediate term low (ITL) is basically 
+a short term low but having a higher short term low on left and right 
+side of it.
+104
+
+---PAGE 109---
+(III) ICT Long Term Low(LTL)
+
+An ICT long-term low (LTL) is also an intermediate term low by nature 
+but it is mostly formed at a higher time frame PD Array after a reaction 
+of price. A long term low (LTL) is indicated by an intermediate low in 
+the middle of two intermediate term lows.
+105
+
+---PAGE 110---
+It is the highest intermediate term high having a lower intermediate 
+term high on the left and right side of it.
+ 
+In bullish market structure price will make higher long-term highs and 
+higher long-term lows. If price is supposed to go higher then it should 
+not violate the recent higher long-term low. But if it does so and breaks 
+the long-term low then it will no longer be bullish.
+
+(I) ICT Short Term Low(STL)
+
+ICT STL-short term low is basically a Swing Low being a three candle 
+formation in such a way that the low(wick) of the 2nd(middle) candle is 
+lower than the low of both candles 1st on left and 3rd on right of it.
+
+106
+
+---PAGE 111---
+(II) ICT Intermediate Term Low(ITL)
+
+The word intermediate refers to something that is in the middle or 
+between two stages. So the ICT intermediate term low (ITL) is basically 
+a short term low but having a higher short term low on left and right 
+side of it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(III) ICT Long Term Low (LTL)
+
+An ICT long-term low (LTL) is also an intermediate term low by nature 
+but it is mostly formed at a higher time frame PD Array after a reaction 
+of price. A long term low (LTL) is indicated by an intermediate low in 
+the middle of two intermediate term lows.
+107
+
+---PAGE 112---
+It is the lowest intermediate term low having a higher intermediate 
+term low on the left and right side of it.
+
+In bearish market structure price will make lower long term lows and 
+lower long-term highs. If price is supposed to go lower it should not 
+violate the recent lower long-term high.
+108
+
+---PAGE 113---
+Market Structure 
+provides insight into 
+the market’s 
+behavior, condition, 
+and current flow
+109
+
+---PAGE 114---
+ICT market maker buy model is basically the blue print of price delivery 
+from a bullish PD array to bearish PD array. You have to look for 
+following things before ICT market maker buy model.
+
+(I) The higher time frame market structure should be bullish.
+
+(II) The next draw on liquidity or Daily Bias should be pointing higher.
+
+(II) There should be a sell program on the lower time frame prior to the 
+higher time frame PD Array.
+
+
+ 
+Components of ICT Market Maker Buy Model (MMBM)
+
+Market maker buy model is made up of four components explained 
+below.
+
+(I) Original Consolidation refers to the consolidated range of the price 
+between two limits of price.
+
+(II) Engineering Liquidity refers to the sell side move of price making 
+lower highs which act as liquidity when prices moves to the buy side.
+
+(III) Smart Money Reversal refers to the reversal of sell side to buy side , 
+when price reaches higher time frame PD array.
+
+(IV) Liquidity Hunt refers to the sweep of old highs which were made 
+previously during engineering liquidity and finally the original 
+consolidation area.
+Market Maker Buy & Sell 
+Model
+**Market Profiles**
+110
+
+---PAGE 115---
+How to Trade ICT Market Maker Buy Model?
+
+As mentioned above , to trade ICT market maker buy model at first you 
+have to look for bullish order flow and next draw on liquidity to the 
+upside on the higher time frame.
+
+After the confirmation of above steps you have to wait for sell program 
+on the lower time frame so that price should reach to the bullish PD 
+array of higher time frame.
+
+When price reaches the bullish PD array of higher time frame wait for 
+the bullish confirmations like Market Structure Shift and SMT 
+divergence.
+
+Now after the above confirmations of buy side you can execute a buy 
+trade in any fair value gap when price retraces below the market 
+structure shift level.
+111
+
+---PAGE 116---
+What is ICT Market Maker Sell Model?
+
+ICT market maker sell model is basically the behavior of price delivery 
+from a bearish PD array to bullish PD array. You have to look for 
+following things before ICT market maker sell model.
+
+(I) The higher time frame market structure should be bearish.
+
+(II) The next draw on liquidity or Daily Bias should be pointing lower.
+
+(II) There should be a buy program on the lower time frame prior to the 
+higher time frame PD Array.
+
+
+
+Components of ICT Market Maker Sell Model
+
+Market maker sell model is made up of four components explained 
+below.
+
+(I) Original Consolidation refers to the consolidated range of the price 
+between two limits of price.
+
+(II) Engineering Liquidity refers to the buy side move of price making 
+higher lows which act as liquidity when prices moves to the sell side.
+
+(III) Smart Money Reversal refers to the reversal of buy side to sell side , 
+when price reaches higher time frame PD array.
+
+(IV) Liquidity Hunt refers to the sweep of old lows which were made 
+previously during engineering liquidity and finally the original 
+consolidation area.
+
+
+
+
+
+Example on Next Page......
+112
+
+---PAGE 117---
+How to Trade ICT Market Maker Sell Model?
+
+As mentioned above , to trade ICT market maker sell model at first you 
+have to look for bearish market structure and next draw on liquidity to 
+the downside on the higher time frame.
+
+After the confirmation of above steps you have to wait for buy program 
+on the lower time frame so that price should reach to the bearish PD 
+array of higher time frame.
+
+When price reaches the higher time frame bearish PD array wait for the 
+bearish confirmations like Market Structure Shift and SMT divergence.
+
+Now after the above confirmations of sell side you can execute a sell 
+trade in any fair value gap when price retraces above the market 
+structure shift level.
+113
+
+---PAGE 118---
+Judas swing is basically a false move to trap retail traders. The word 
+judas swing was derived from concept of goat slaughtering, in ancient 
+times butchers used to have judas goat which would lead all goats to 
+slaughter house and he himself would have returned back resulting in 
+slaughtering of all other goats.
+
+So judas swing is same in sense of trading a false move which tricks, 
+the traders in believing that it will continue in a particular direction, 
+and trap them.
+
+Features of ICT Judas Swing?
+
+ICT judas swing forms in between the New York midnight open and 
+05:00 AM New York time. The London session open at 03:00 AM New 
+York time and mostly judas swing forms in this period of time after 
+opening of London session to 05:00 AM New York time.
+
+How to identify ICT Judas Swing?
+
+On the basis of market structure either bullish or bearish we will be 
+explaining ICT judas swing in two types.
+
+ICT Judas Swing in Bullish Market is the strong and quick bearish move 
+below the opening price of asset. Which leads traders to believe that it 
+will continue moving down.
+
+In this way the smart money grabs the stop losses of the traders who 
+bought at opening price and they will sell believing that market will 
+continue moving down after that market returns to the upside and 
+again grabs the liquidity of traders who sold below opening price.
+
+And after the judas swing ( false bearish move) traders will believe the 
+price to continue pushing down and they will try to sell. While after 
+engaging them in false move price will return to upside again grabbing 
+the stop losses of traders who sold in believing the false bearish move.
+Judas Swing
+**Market Profiles**
+114
+
+---PAGE 119---
+ICT Judas Swing in Bearish Market is the strong and quick bullish move 
+above the opening price of asset. Which leads traders to believe that it 
+will continue moving up.
+
+In this way the smart money grabs the stop losses of the traders who 
+sold at the opening price and they try to buy again believing the false 
+bullish move after that market returns to downside grabbing the 
+liquidity of traders who bought above the opening price.
+
+And after the judas swing ( false bullish move) traders will believe the 
+price to continue moving up and they will try to buy. While after 
+engaging them in false move price will return to downside again 
+grabbing the stop losses of traders who bought in believing the false 
+bullish move.
+115
+
+---PAGE 120---
+116
+
+---PAGE 121---
+Price basically moves from “external to internal” and then “internal to 
+external” range liquidity. So price after taking the external range 
+liquidity moves toward the internal range liquidity to balance the fair 
+value gap and then again price moves to the external range liquidity 
+and this cycle continues.
+
+
+
+
+
+If price is bullish it will rise to take the external range liquidity and 
+after taking the external range liquidity it will drop down to balance 
+the move and take internal range liquidity and vice versa in bearish 
+trend.
+ERL to IRL Move
+**Market Profiles**
+117
+
+---PAGE 122---
+Like the ERL to IRL price moves from a high resistance liquidity run to 
+low resistance liquidity run.
+
+
+
+
+
+
+In bullish trend price will move up to take a HRLR like an old low and 
+then it will come down to take the LRLR like the short term lows 
+created in previous bullish move and the vice versa in bearish trend.
+HRLR to LRLR Move
+**Market Profiles**
+118
+
+---PAGE 123---
+Market Profiles are 
+analytical tools that 
+help traders 
+anticipate market 
+trends and identify 
+trading opportunities.
+119
+
+---PAGE 124---
+You are done with 
+Market Profiles. Now 
+move to next 
+Learning Block.
+120
+
+---PAGE 125---
+ICT 
+Essen
+tials
+5. 
+ICT 
+Essentials
+121
+
+---PAGE 126---
+ICT essentials are basically the important elements of ICT trading 
+strategy which can help you to potentially spot a reversal or 
+retracement of price.
+
+List of ICT essentials is given below:
+
+1 : ICT AMD Pattern.
+
+2 : ICT Market Structure Shift.
+
+3 : ICT CISD.
+
+4 : ICT Turtle Soup.
+
+
+
+
+
+
+
+
+
+
+
+Now Let’s Go for Each Concept of ICT Essentials Explained in Individual 
+Chapters.
+ICT Essentials
+122
+
+---PAGE 127---
+Accumulation manipulation distribution also known as AMD are three 
+main phases of a potential price move which are explained below:
+
+Accumulation Phase
+
+Accumulation phase is when the day opens, market ranges near 
+opening price and smart money accumulate their positions in this area.
+This phase can be spotted by identifying areas where the price appears 
+“trapped” within a horizontal range, signaling a potential setup for a 
+larger market move.
+
+During this phase, retail traders place their buy orders at the horizontal 
+support area and the sell orders at the horizontal resistance area.
+While their stop-loss lies above the high and below low of the price 
+range.
+
+Manipulation Phase
+
+Manipulation phase as obvious from the name is to manipulate the 
+retail traders. After accumulation smart money moves the market in 
+opposite direction like on bearish day, they manipulate the retailer 
+traders toward buy-side.
+
+While on bullish day they manipulate toward sell-side. They do this by 
+running price above or below the accumulation phase. The 
+manipulation phase is also known as false breakout of the 
+accumulation phase
+.
+When price breaks to the upside of price range, short sellers stop-loss 
+orders will be triggered and bullish breakout traders will enter buy 
+positions.
+When price breaks to the downside of range, traders who went long 
+their stop-loss orders will be triggered and bearish breakout traders 
+will enter sell positions.
+AMD Pattern
+**ICT Essentials**
+123
+
+---PAGE 128---
+124
+
+---PAGE 129---
+Market structure shift (MSS) is an initial signal of trend reversal which 
+can either be a short term or long-term change in market structure.
+
+(MSS) is indicated by a break of swing high or swing low on a price 
+chart, with a displacement move.
+Market Structure Shift
+**ICT Essentials**
+125
+
+---PAGE 130---
+ICT Change in the state of delivery basically means the change in the 
+direction of price delivery, for instance if price was being delivered to 
+the buy-side initially now after an ICT CISD price is going to be 
+delivered to the sell-side.
+
+An ICT change in the state of delivery is indicated by the closing of 
+price above the opening price of bearish price delivery and closing of 
+price below the opening price of bullish price delivery.
+Change in State of Delivery
+**ICT Essentials**
+126
+
+---PAGE 131---
+ICT turtle soup pattern is based on hunting the stop orders of traders 
+above a key resistance level or below a key support level in the market.
+Turtle soup pattern is particularly effective in ranging markets where 
+price tends to oscillate between established highs and lows.
+
+This pattern focuses on the concept of Liquidity Sweep and false 
+breakout where price briefly breaks out of a significant support or 
+resistance level before reversing.
+
+Mostly traders mark the breakout of support or resistance level as a 
+continuation of trend. But ICT marks it as run on stops of traders who 
+went long on the support level and short on the resistance level.
+
+Price basically moves for two main reasons:
+
+(I) To Balance any Imbalance
+(II) To Hunt the Liquidity
+ 
+So after hunting the liquidity of one side, price reverses to balance any 
+imbalance left behind or to sweep the liquidity of other side.
+Turtle Soup
+**ICT Essentials**
+127
+
+---PAGE 132---
+ICT Essentials are 
+basically the 
+important elements 
+of ICT trading 
+strategy which can 
+help you to 
+potentially spot a 
+reversal or 
+retracement of price.
+128
+
+---PAGE 133---
+You are done with ICT 
+Essentials. Now move 
+to next Learning 
+Block.
+129
+
+---PAGE 134---
+Time 
+& 
+Price 
+Theo
+ry 
+6. 
+Time & Price 
+Theory 
+130
+
+---PAGE 135---
+ICT trading is basically based on two important elements which are 
+price and time. Michael said price alone is not important but the time 
+of price delivery is important.
+
+List of ICT Time & Price Theory  is given below:
+
+1 : Asian Range
+
+2 : ICT Macros
+
+3 : ICT Silver Bullet Strategy
+
+4 : ICT Kill Zones Times
+
+
+
+
+
+Now Let’s Go for Each Concept of ICT Time & Price Theory Explained in 
+Individual Chapters.
+Time & Price Theory 
+131
+
+---PAGE 136---
+ICT Asian range is basically the range of Asian session which starts at 
+07:00 PM and ends at midnight 12:00 AM (New York Local Time). If you 
+have a higher timeframe directional bias, you can use the ICT Asian 
+range to anticipate the likely movement of price after Asian range.
+
+A tight consolidation within the Asian Range often signals an impending 
+shift to a trending algorithm, which means market is likely to sweep-
+out liquidity either above or below of Asian range. This liquidity sweep 
+traps the retail traders in the wrong direction and the price reverses 
+after that.
+
+How to Trade Asian Range?
+ 
+To trade the ICT Asian range strategy, you need to have a directional 
+bias. You would mark the high and low of Asian range and wait for the 
+liquidity sweep above high or below the low of Asian range.
+If the Asian low is taken wait for a CISD or MSS in lower timeframe to 
+buy and vice versa for sell.
+Asian Range
+**Time & Price Theory **
+132
+
+---PAGE 137---
+For London Session trading refer to the early chapter of Daily Market 
+Profile.  
+ London Normal Protraction. 
+ London Delayed Protraction.
+
+New York Session Trading Strategy
+ 
+New York session opens at 08:00 AM New-York local time.
+
+(I) If price has already taken the liquidity in London session and moved 
+away then the New-York session may see some retracement and then 
+continuation of London session price delivery.
+
+In this scenario you have to draw Fibonacci from the London session 
+low to the high prior to New-York retracement.
+
+Now wait for price to tap the ICT Optimal Trade Entry levels and then 
+you can execute the trade in the direction of London price delivery, 
+after confirmation like the ICT MSS on 01-Minute timeframe.
+133
+
+---PAGE 138---
+A macro is “A short order of instructions that creates an event in price 
+delivery” as said by the ICT himself.
+ 
+ICT Macro times are basically short intervals of time during which the 
+algorithm seeks liquidity or reprices the fair value gap. As mentioned 
+earlier they are based on ICT time and price theory.
+
+You can use ICT macros to enhance your trading strategy and gain 
+better results because these add confluence to your trading strategy.
+
+In his 2024 Mentorship ICT mentioned that “ICT macro happens in 
+every single hour containing last 10 minutes of closing hour and first 10 
+minutes of opening hour” with few exceptions mentioned later.
+ 
+Michael Huddleston also mentioned in his 2024 Mentorship that “Last 
+hour has four macros” which means an ICT Macro occur after every 15 
+minutes in the last hour.
+
+ICT macros were initially introduced by the Michael Huddleston back in 
+the year 2023 and this is how they look like in the chart.
+ICT Macros
+**Time & Price Theory **
+134
+
+---PAGE 139---
+How ICT Macros Work?
+ 
+As we discussed earlier, during the ICT macro times the algorithm 
+either seeks liquidity (sell side or buy side) or it may look to balance 
+the imbalance (fair value gap) in price.
+
+Your trading setup may form before the ICT macro time but the ICT 
+macros can add volatility in the price resulting into a quick move to 
+hunt the liquidity. Sometimes a trading setup may form during the ICT 
+macro times and can hit the target during this time too.
+ 
+ICT Macro Times EST & GMT
+
+Below we have tabulated macro times in both EST & GMT time frame 
+so you do not have confusion in what ever time zone you are.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+135
+
+---PAGE 140---
+ICT silver bullet strategy is a time-based algorithmic trading model 
+based on the Liquidity and Fair Value Gap which happens three times a 
+day in a one-hour window.
+
+As said by Michael Huddleston the founder of ICT, “To quit your job, you 
+need something that repeats every day and yields five handles.” ICT 
+silver bullet is what he was talking about because it repeats every day 
+and can yield you up to 20-30 pips.
+
+
+
+
+How ICT Silver Bullet Strategy Works?
+
+As you know, price moves because of two main reason that are to 
+balance any imbalance in price delivery or to take the liquidity. That’s is 
+why ICT silver bullet strategy is based on the liquidity and fair value 
+gap.
+
+So, before the start of ICT silver bullet session, you have to mark the 
+nearest buy-side and sell-side liquidity on 15-minute time frame. If 
+price has swept the liquidity of one-side, it may move to the other side 
+to grab the liquidity.
+
+Alternatively, if price has run above/below the liquidity, then it may 
+continue to move further in that direction and grab next liquidity. So, 
+after the start of ICT silver bullet session look for an ICT Market 
+Structure Shift in lower time-frame like 1-Minute or 3 Minute in the 
+direction of next Draw on liquidity.
+
+After the ICT MSS in the direction of draw on liquidity, look for any ICT 
+fair value gap behind, you can use ICT Premium and Discount tool to 
+find best FVG to trade. When price trades back to the Fair value gap 
+you can execute a scalp trade.
+Silver Bullet
+**Time & Price Theory **
+136
+
+---PAGE 141---
+This is how an ICT silver bullet is displayed in chart.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICT Silver Bullet Times
+
+Below we have tabulated the ICT silver bullet times in both EST & GMT 
+time zones. The table cover all the 3 silver bullet times including 
+London, New York AM & PM sessions.
+137
+
+---PAGE 142---
+ICT kill zones also known as ICT session times or forex kill zone times 
+are basically time frames with high trading volume and volatility in the 
+market resulting into good trading opportunities which you can utilize 
+to maximize your profits from the market.
+
+These kill zones are based on the four primary sessions of the 
+international forex market that are Sydney, Tokyo, London and New York 
+thus making them volatile.
+
+Another major factor contributing to the surge in trading volume during 
+these sessions is huge trade activity by various institutional traders 
+during this time frame, which Michael Huddleston refers to as ICT kill 
+zones.
+
+These zones are divided into four time frames named as, Ict Asian kill 
+zone, ICT London kill zone, ICT New York kill zone and ICT London close 
+kill zone, the timing for all which is tabulated below.
+
+
+
+These ICT kill zone times are according to GMT & EST time.
+Kill Zones 
+**Time & Price Theory **
+138
+
+---PAGE 143---
+ICT Asian Kill Zone
+
+ICT Asian kill zone lies between 7:00 PM – 10:00 PM (New-York Local 
+time). It is based on the ICT Asian range being the first strategic period 
+in the forex market with ideal pairs of Australian Dollar, New Zealand 
+Dollar and Japanese Yen.
+
+These are the most active pairs in ICT Asian time and the US Dollar 
+mostly tends to consolidate during Asian session.
+
+Characteristics of Asian Kill Zone
+
+·  Asian kill zone time lies between 07:00 PM to 10:00 PM.
+
+·   Mostly the higher time frame bias is helpful during this period of 
+time but short term retracement either bullish or bearish can offer you 
+similar optimal trade entry.
+
+·   Most of the time the Asian session displays least volatility and the 
+tight ranges making it less attractive for traders.
+
+·   The Asian open mostly setup an optimal trade entry pattern that can 
+offer 15-20 pips scalp trade.
+
+·  Most trade setups during Asian session of time happen in cross pairs 
+due to US Dollar 
+ consolidation in this timeframe.
+139
+
+---PAGE 144---
+ICT London Kill Zone
+
+ICT London kill zone time lies between 02:00 AM – 05:00 AM (New York 
+local time).
+
+It falls in the ICT London session, witnessing the highest trading 
+volume as compared to Asian session. Euro (EUR) & Britain Pound (GBP) 
+are the hot pairs during this period of time. The London session 
+possesses the highest probability of a large directional move in 24 
+hours.
+
+Characteristics of London Kill Zone
+ 
+ICT London kill zone lies between 01:00 AM to 05:00 AM EST.
+
+Mostly the higher time frame bias is helpful during this period of time.
+
+The London open can set up an optimal trade entry pattern that can 
+offer you more than 30 pips directional trade.
+
+On a bullish day during the London kill zone, price mostly sets high of 
+the day.
+
+While on bearish days during London kill zone price may set up low of 
+the day.
+ 
+140
+
+---PAGE 145---
+ICT New York Kill Zone
+
+ICT New York kill zone lies between 07:00 AM – 10:00 AM (New York 
+local time). It is highly volatile due to the overlap of London and New-
+York sessions, During this session pairs coupled with US dollars are 
+important to watch and trade.
+
+Characteristics of New York Kill Zone
+
+ICT New York kill zone lies between 07:00 AM to 09:00 AM EST.
+
+Mostly the higher time frame bias is helpful during this period of time 
+but short term retracement either bullish or bearish can offer similar 
+optimal trade entry.
+
+The New York session mostly retraces back to the London trading range 
+and sets up an optimal trade entry pattern that can offer you 30-40 
+pips trade.
+
+The New York session is volatile with high trading volume because of 
+the overlapping between London and New York sessions.
+141
+
+---PAGE 146---
+ICT London close Kill Zone
+
+ICT London close kill zone lies between 10:00 AM – 12:00 PM (New York 
+local time). It possesses a significant importance due to its timing as 
+most of the traders secure their positions before the close of the day 
+which may result in retracement of the price back to the daily range.
+
+Price mostly retraces back to its daily range offering a good optimal 
+trade entry setup & major pairs coupled with the US dollar are 
+preferably good to trade during this time.
+
+Characteristics of London close Kill Zone
+        
+ICT London close kill zone lies between 10:00 AM to 12:00 PM EST.
+
+London close kill zone can offer five minutes OTE setup with 15/20 pips 
+scalp trade.
+
+On bullish day after making high of the day, price retrace back to the 
+daily range during London close kill zone.
+
+On bearish day after making low of the day, price retrace back to the 
+daily range during London close kill zone.
+142
+
+---PAGE 147---
+Price alone is not 
+important but the 
+time of price delivery 
+is important.
+143
+
+---PAGE 148---
+You are done with 
+Time & Price Theory. 
+Now move to next 
+Learning Block.
+144
+
+---PAGE 149---
+Bonu
+s 
+Lect
+ure
+7. 
+Bonus 
+Lecture
+145
+
+---PAGE 150---
+(I)  08:00 AM Model:
+ 
+Key Elements
+ 
+(I) Relative Equal High : is a high having a lower swing high on the right 
+side of it, formed because of a swing failure and a potential reversal.
+
+(II) Relative Equal Low : is a low having a higher swing low on the right 
+side of it, formed because of a swing failure and a potential reversal.
+
+(III) Displacement : is a move against a pre-session, pre-day or pre-
+price swing, so its a counter move.
+
+(IV) ICT Order Block : is the zone/area in a price chart, where a large 
+number of orders are executed by institutional traders in the market 
+and market shows sudden strong move from that area.
+
+(V) Breaker Block : is when price sweeps the liquidity of a low or 
+relative equal lows by dropping below the low and then it goes up 
+breaking the previous swing high, all the up closed candles formed 
+before dropping down and sweeping the liquidity is bullish breaker 
+block but the most sensitive one will be last up closed candlestick.
+Bonus Lecture 2024 Trading 
+Model
+146
+
+---PAGE 151---
+Bearish breaker block is when price sweeps the liquidity of a high or 
+relative equal highs by going above them and then it drops down 
+breaking the previous swing low, all the down closed candles formed 
+before moving up and sweeping the liquidity is bearish breaker block 
+but the most sensitive one will be last down closed candlestick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(VI) SIBI : is a down closed ICT Fair Value Gap.
+(VII) BISI : is an up closed ICT Fair Value Gap.
+ 
+Key Timeframes for ICT 2024 Mentorship
+
+Michael said if you are new to his concepts or new to trading then 
+focus only on three time frames and forget everything.
+
+(I) 15 Minutes
+(II) 5 Minutes
+(III) 1 Minute
+ 
+Key Time of The Day
+
+In this lecture of ICT 2024 mentorship, Michael only focuses on post 
+08:30 AM but preferably you can sit before 08:00 AM (New-York Local 
+Time).
+147
+
+---PAGE 152---
+Application in The Market
+
+So according to the ICT 2024 mentorship lecture 1, you have to sit at 
+your computer before 08:30 AM (New-York local time) preferably at 
+08:00 AM (New-York local time). You only have to focus on three time 
+frame 15 Minutes, 05 Minutes and 01 Minute.
+
+15 Minutes chart will be your bias and parent chart where you will look 
+for the levels like inefficiencies and draw on liquidity.
+
+After 08:00 AM you have to look for relative equal highs or relative 
+equal lows on 01 minute timeframe. After the formation of relative 
+equal highs/lows wait for price to grab these relative equal high/low.
+
+(I) Bearish Scenario
+
+If price forms and grabs the relative equal highs then wait for price to 
+return back to range and close below the swing low (Market Structure 
+Shift).
+
+After grabbing the liquidity of relative equal highs if price returns back 
+and closes below the swing low, mark the bearish order-block, SIBI 
+formed in the dropping move and the bearish breaker block formed 
+after breaking swing low.
+
+When price retraces to the order-block, SIBI or breaker you can execute 
+a sell trade at one of this PD-array targeting the next draw on liquidity 
+like relative equal lows or low of previous session.
+148
+
+---PAGE 153---
+(II) Bullish Scenario
+
+If price forms and grabs the relative equal lows then wait for price to 
+return back to range and close above the swing high (Market Structure 
+Shift).
+
+After grabbing the liquidity of relative equal lows if price returns back 
+and closes above the swing high, mark the bullish order-block, BISI 
+formed in the rising move and the bullish breaker block formed after 
+breaking swing high.
+
+When price retraces to the order-block BISI or bullish breaker you can 
+execute a buy trade at one of this PD-array targeting the next draw on 
+liquidity like relative equal highs or high of previous session.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(II) 07:00 AM Model
+ 
+Key Elements
+
+(I) SIBI : is the down closed Fair Value Gap
+(II) BISI : is the up closed Fair Value Gap
+(III) IFVG : is the Inversion Fair Value Gap..
+(IV) Breaker Block : is a failed order block.
+(V) Relative Equal High : is when a high has a lower swing high on right 
+side of it formed due to price swing failure.
+149
+
+---PAGE 154---
+(VI) Relative Equal Low : is when a swing low has a higher swing low on 
+right side of it formed due to price swing failure.
+
+(VII) Fractal : is the repetitive nature of price behavior on every 
+timeframe.
+
+(VIII) Specific : Very first fair value gap prior to the stop hunt will be the 
+most sensitive inverse fair value gap.
+
+(IX) Consequent Encroachment: is the 50% retracement level (middle) 
+of an ICT PD Array.
+
+(X) Fibonacci Inputs : use 0, 0.5, 1, -2 and -2.5.
+ 
+Key Times of The Day
+
+(I) 07:00 AM (New-York local time)
+(II) 08:00 AM (New-York local time)
+(III) 09:00 AM (New-York local time)
+ 
+Key Timeframes for ICT 2024 Mentorship
+
+(I) 15 Minutes.
+(II) 05 Minutes.
+(III) 01 Minute.
+(IV) 15 Seconds.
+
+Application in The Market
+
+Start at 07:00 AM (New-York local time) do not look anything prior if 
+you are brand new. If you have experience you can look for prior data 
+(london price delivery).
+
+Anything you wan to see prior 07:00 AM is london high and low for the 
+draw on liquidity. Do not predict the price just wait for it to happen.
+07:00 AM (AM-Session) always first and foremost characteristics is 
+retracing back into London-Session range.
+
+At 07:00 AM you should be at your computer and you have to look for 
+relative equal highs or relative equal lows formation on 05 minutes or 
+01 minute timeframe.
+
+After the formation of relative equal highs/lows wait for price to grab 
+these relative equal high/low.
+150
+
+---PAGE 155---
+(I) Bearish Scenario
+
+If price forms and grabs the relative equal highs then wait for price to 
+return back to range and close below the swing low (Market Structure 
+Shift).
+
+After grabbing the liquidity of relative equal highs if price returns back 
+and closes below the swing low, mark the very first fair value gap 
+formed prior to the stop-hunt as IFVG and also mark the bearish 
+breaker block formed after the break of swing low.
+
+When price retraces back you have to execute a sell trade at 
+consequent encroachment of the Inverse fair value gap (IFVG) marked, 
+if IFVG is not present then you can execute the sell trade at bearish 
+breaker block.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(II) Bullish Scenario
+
+If price forms and grabs the relative equal lows then wait for price to 
+return back to range and close above the swing high (Market Structure 
+Shift).
+
+After grabbing the liquidity of relative equal lows if price returns back 
+and closes above the swing high, mark the very first fair value gap 
+formed prior to the stop-hunt as IFVG and also mark the bullish 
+breaker block formed after the break of swing high.
+151
+
+---PAGE 156---
+When price retraces back you have to execute a buy trade at 
+consequent encroachment of the Inverse fair value gap (IFVG) marked, 
+if IFVG is not present then you can execute the buy trade at bullish 
+breaker block.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE: After 07:00 AM, 08:00 AM and 09:00 AM in first 30 minutes (Pre-
+Session range) expect something opposite (opposite price movement to 
+the relative trend or relative equal highs/lows).
+152
+
+---PAGE 157---
+Risk 
+Mana
+gem
+ent
+8. 
+Risk 
+Management
+153
+
+---PAGE 158---
+Trading forex is as much about protecting your capital as it is about 
+making profits. A disciplined risk management plan ensures longevity in 
+trading and prevents emotional decision-making. 
+
+Here’s a structured approach that minimizes risk while maximizing 
+reward.
+
+1. Risk Per Trade: Never More Than 2%
+
+To safeguard your trading account, never risk more than 2% of your 
+total capital on a single trade. This ensures that even after a losing 
+streak, you have enough capital to recover.
+
+For example, if your trading capital is $10,000, your maximum risk per 
+trade should be $200 (2%).
+
+2. Adaptive Risk Adjustment
+
+If you hit a 2% loss in a session, reduce your risk per trade to 1% until 
+you regain profitability and stabilize your account balance. This helps 
+prevent overtrading and emotional reactions after losses.
+
+3. Risk-to-Reward Ratio: 1:3
+
+Each trade setup should have a minimum risk-to-reward ratio of 1:3. 
+This means for every $1 risked, you aim to make $3 in profit.
+
+For instance, if your stop loss is 20 pips, your take profit should be at 
+least 60 pips. This ensures that even with a lower win rate, you remain 
+profitable in the long run.
+
+4. Trade Selection: Quality Over Quantity
+
+Avoid over trading by limiting yourself to 1 to 2 high-quality trade 
+setups per day. Look for confluences such as support and resistance 
+levels, trend confirmation, and strong price action signals.
+Risk Management
+154
+
+---PAGE 159---
+5. Stop Loss and Take Profit Discipline
+
+Always set a stop loss and take profit before entering a trade. Never 
+adjust your stop loss to widen it if the trade goes against you. Stick to 
+the plan and accept losses as part of the game.
+
+6. Daily Loss Limit
+
+If you reach your daily loss limit (e.g., 4% of total capital), stop trading 
+for the day. This prevents revenge trading and ensures you return with a 
+fresh mindset the next session.
+
+7. Risk Diversification
+
+Avoid putting all your risk on one currency pair or a single type of setup. 
+Diversify across different forex pairs and market conditions to reduce 
+exposure.
+
+8. Trading Psychology and Emotional Control
+
+Stick to the plan and avoid emotional decision-making. Losses are 
+inevitable, but your ability to manage them determines long-term 
+success. Keep a trading journal to analyze mistakes and refine your 
+strategy.
+
+Conclusion:
+
+By following this risk management plan, you ensure steady growth and 
+protect your capital. Trading is a marathon, not a sprint. Focus on 
+discipline, patience, and consistent execution to achieve long-term 
+profitability in forex trading.
+155
+
+---PAGE 160---
+Trading is a 
+marathon, not a 
+sprint.
+156
