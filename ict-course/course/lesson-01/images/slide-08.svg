@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080">
+  <rect width="100%" height="100%" fill="#0B0F1A"/>
+  <text x="90" y="110" font-family="Arial" font-size="54" fill="#FFFFFF">Lesson</text>
+  <text x="420" y="110" font-family="Arial" font-size="54" fill="#00D4FF">01</text>
+  <text x="90" y="160" font-family="Arial" font-size="36" fill="#FFFFFF">Scene</text>
+  <text x="90" y="160" font-family="Arial" font-size="30" fill="#D0D7E2">A trader can fail even with solid understanding of rules. 
+The book explains that failure often comes</text>
+<text x="90" y="194" font-family="Arial" font-size="30" fill="#D0D7E2">from:
+- **lack of knowledge**, and also
+- **overload of unnecessary and scattered information**</text>
+</svg>

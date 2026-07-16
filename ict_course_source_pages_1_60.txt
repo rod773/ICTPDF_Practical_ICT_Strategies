@@ -1,0 +1,1286 @@
+---PAGE 1---\n5th Edition
+Written By : Ayub Rana
+Practical ICT
+
+Strategies
+Quick & practical ICT Trading
+Strategies to navigate the forex
+market with confidence and
+precision.\n\n---PAGE 2---\nTable of Contents
+Introduction
+1. Author Intro 02
+
+2. Who This Book is for? 04
+
+3. Not for X 08
+
+4. Why Traders Fail? 10
+
+5. What is ICT Trading? 11
+
+6. ICT VS Price Action 13
+
+7. Road Map 14
+
+
+
+
+ICT PD-Array
+8. ICT PD-Array 21
+
+9. Order Block 24
+
+10. Breaker Block 29
+
+11. Fair Value Gap 33
+
+12. Inverse Fair Value Gap 37
+
+13. Implied Fair Value Gap 39
+
+14. Balanced Price Range (BPR) 43
+
+15. Rejection Block 45
+
+16. Vacuum Block 48
+
+17. Mitigation Block 52
+
+
+
+Note : All Customers will get future editions of book for free
+for 1 year.\n\n---PAGE 3---\nICT Liquidity Zones
+18. Institutional Liquidity Zones 59
+
+19. Buy & Sell Side Liquidity 60
+
+20. High & Low Resistance Liquidity 62
+
+21. Internal and External Range Liquidity 64
+22. Liquidity Pool 68
+23. Liquidity Void 69
+24. Liquidity Sweep and Liquidity Run 70
+ICT Market Profiles
+25. ICT Market Profiles 75
+
+26. Weekly Profiles 76
+
+27. Daily Bias 90
+
+28. Intraday Profiles 94
+29. Advance Market Structure 101
+30. Market Maker Buy & Sell Model 110
+31. Judas Swing 114
+
+32. IRL to ERL Price Move 117
+
+33. HRLR to LRLR 118\n\n---PAGE 4---\nICT Essentials
+34. ICT Essentials 122
+
+35. AMD Pattern 123
+
+36. Market Structure Shift 125
+
+37. CISD 126
+38. Turtle Soup 127
+ICT Time & Price Theory
+39. ICT Time & Price Theory 131
+
+40. Asian Range 132
+
+41. ICT Macros 134
+
+42. Silver Bullet Strategy 136
+43. Kill Zones Times 138
+Bonus Lecture
+44. Bonus Lecture 146
+Risk Management
+45. Risk Management 154\n\n---PAGE 5---\nIntrod
+ucion
+
+.
+1
+Introduction
+Intro
+The license for this book covers one person only.
+DO NOT redistribute or share this PDF with
+anyone, as it will lead to your license being void
+(and updates suspended).
+1\n\n---PAGE 6---\nIntrod
+Introduction
+Hello! Ayub Rana here .
+Thank you for purchasing “Practical ICT Trading Strategies”!
+
+
+The idea for this book came to life in December of 2023, few
+months after when I started my blog website to share all the trading
+knowledge I gained over the years. Though I got amazing response
+on my blog yet some users insisted to compile all ICT Trading
+knowledge in a single structured PDF book as everyone is not able
+to connect dots of scattered information over the blog.
+
+
+I looked around and noticed few so called ICT Trading books are in
+market which are outdated, vague & often written by non practicing
+traders without the expertise. I decided to change this and write
+this book. Nearly all of the knowledge within these pages is based
+on 8 years of knowledge & thousands of trades taken by me.
+
+
+Now I am sharing all that experience with you!
+Ayub Rana
+2\n\n---PAGE 7---\nWho is
+this book
+2.
+Who is
+for Who
+this
+
+book for?
+is this
+3
+book for\n\n---PAGE 8---\nWho i
+Who is this
+book for?
+My books are brief. I won’t ask you to read 500 pages if I can get
+them down to 150. I know you’re restless. My goal is to get you
+started right away.
+
+
+This Book is for anyone of below.
+
+
+1- Newcomers to Trading Feeling Lost: : For beginners who don’t
+know where to start, this book simplifies complex ICT concepts into
+actionable steps.
+
+
+2- Experienced Traders Seeking Advanced Insights: : If you’ve hit
+a plateau in your trading journey, this book uncovers advanced
+strategies to refine your edge and increase profitability.
+
+
+3- Frustrated Traders Seeking Clarity: A step-by-step guide to cut
+through market noise and confusion.
+
+
+4- Traders Looking for a Proven Strategy: Master a system
+designed for consistent and scale-able results.
+
+
+5- Those Tired of Emotional Trading: Techniques to trade with
+discipline and avoid costly mistakes.
+
+
+6- Part-Time Traders with Limited Time: Efficient strategies to
+maximize results in minimal trading hours.
+
+4\n\n---PAGE 9---\nBook for
+7. Aspiring Professionals Seeking Mastery: In-depth methods to
+achieve expert-level trading skills.
+
+
+
+8. Traders Burned by Overpromising Courses: Actionable, no-fluff
+strategies that deliver real results.
+
+
+
+9. Forex Traders Seeking Precision: Tools to pinpoint entry and exit
+levels with confidence.
+
+
+
+10. Traders Wanting a Lifetime Skill: Build a sustainable trading
+career with ICT strategies that evolve with the markets.
+5\n\n---PAGE 10---\n8 years of experience,
+
+and over 1000 Trades
+
+distilled into the best
+
+ICT TRADING
+practices. ”
+6\n\n---PAGE 11---\nNot FOR
+3.
+Not for X
+7\n\n---PAGE 12---\nNot fo
+Not for X
+tHIS book is not for?
+This Book is not for anyone of below.
+1- Traders Expecting Instant Riches: If you’re looking for a shortcut
+to wealth, this isn’t the book for you.
+
+
+
+2- People Unwilling to Put in the Work: Success in trading requires
+effort, discipline, and consistent learning.
+
+
+
+3- Those Seeking Guaranteed Profits: Markets are unpredictable,
+and no strategy can promise risk-free gains.
+
+
+
+4- Impatient Learners: ICT strategies take time to understand and
+implement effectively—patience is key.
+
+
+
+5- Traders Ignoring Risk Management: If you overlook capital
+preservation, no strategy can save you from losses.
+
+
+
+6- Individuals Who Avoid Self-Reflection: Trading success
+depends on analyzing and improving your mindset and habits.
+
+
+8\n\n---PAGE 13---\nBook NOT for
+7- Get-Rich-Quick Enthusiasts: This book teaches a methodical
+approach, not speculative gambling.
+
+
+8. Readers Expecting Hand-Holding: While this book offers
+guidance, your success depends on your dedication and practice.
+
+
+
+9. Unrealistic Dreamers: If you believe trading is easy money, you’ll
+be disappointed—it’s a professional skill.
+
+
+
+10. Those Who Won’t Adapt: Markets change, and this book is for
+traders ready to evolve with them, not stick to rigid beliefs.
+
+
+
+
+X
+9\n\n---PAGE 14---\nWhy T
+Why Traders
+Fail?
+i
+A trader can fail even with a solid understanding of all the trading
+rules, and an ICT trader is no exception. Often, failure stems from a
+lack of knowledge, but sometimes it’s due to an overload of
+unnecessary and scattered information.
+
+
+To address this, this eBook is designed to provide only the most
+essential and practical knowledge of ICT, ensuring you receive
+exactly what you need to become a successful trader.
+
+10\n\n---PAGE 15---\nWhy T
+What is ICT
+Trading?
+i
+ICT Trading is a trading methodology developed by Michael J.
+Huddleston, commonly known as the "Inner Circle Trader". You may
+already be familiar with his name and teachings. His trading approach
+focuses primarily on the relationship between time and price,
+emphasizing that while understanding price movement is crucial, the
+timing of those movements is even more critical.
+According to Huddleston, price is delivered and controlled by an
+algorithm he refers to as the IPDA (Interbank Price Delivery Algorithm).
+
+
+This algorithm is designed to target liquidity, making liquidity a central
+concept in his teachings. Huddleston identifies two primary reasons for
+price delivery:
+
+
+1. To balance any imbalance in price.
+
+2. To hunt for liquidity.
+
+
+
+11\n\n---PAGE 16---\nWhile understanding
+price movement is
+crucial, the timing of
+those movements is
+even more critical.
+12\n\n---PAGE 17---\nVS
+ICT VS Price
+Action
+If you've previously traded using price action, you might wonder how
+ICT differs from it. From my perspective, as someone who has traded
+price action for years, the key difference lies in the underlying logic in
+price action.
+
+
+Price action doesn't offer a clear rationale for price movements, as
+prices don't move due to animal or symmetrical patterns.
+
+
+Additionally, the win rate for price action is significantly lower,
+particularly on lower time frames, where numerous patterns and trend
+lines can form simultaneously, often leading to confusion.
+
+
+In contrast, ICT provides a logical framework for understanding price
+delivery, which is especially relevant in our technology-driven era.
+You're likely familiar with algorithms that control various online
+operations, and price delivery in the financial markets is no different.
+
+
+it's also governed by an algorithm. This approach not only makes more
+sense but also results in higher accuracy and a better win ratio, making
+ICT a more reliable method for trading.
+13\n\n---PAGE 18---\nRoad
+Road Map
+lEARN sTEP BY STEP
+This roadmap is designed to guide you through a step-by-step
+learning journey of ICT (Inner Circle Trader) trading strategies. It
+covers essential concepts, market structures, execution techniques,
+and risk management, ensuring a comprehensive understanding of
+how smart money operates.
+
+
+
+--------------
+
+
+
+Phase 1: Understanding Core ICT Concepts (Weeks 1–4)
+
+
+The first phase focuses on building a solid foundation by
+understanding the key concepts that drive price movements and
+market behavior.
+
+
+PD-Arrays & Dealing Range
+
+
+
+Premium & Discount (PD) Concepts: Learn how to divide price
+ranges into premium (above equilibrium) and discount (below
+equilibrium) zones to identify optimal trade entries.
+
+
+ICT Dealing Range & Fibonacci: Use ICT's dealing range along with
+Fibonacci retracement levels to pinpoint high-probability entry and
+exit zones.
+14\n\n---PAGE 19---\nRoad map
+Key PD Arrays: Study essential ICT tools such as:
+
+
+Order Blocks (OBs): Areas of institutional interest where large
+orders are placed.
+
+
+Breaker Blocks: Failed OBs that act as support or resistance after
+being broken.
+
+
+Fair Value Gaps (FVGs): Areas of inefficiency where price moves
+quickly, leaving a gap.
+
+
+Mitigation Blocks: Zones where price returns to mitigate unfilled
+orders.
+
+
+
+Liquidity Zones
+
+
+
+Buy & Sell-Side Liquidity (BSL/SSL): Learn to identify liquidity pools
+where stop-losses are likely placed, which smart money targets.
+
+
+Liquidity Sweeps: Recognize how the market manipulates price to
+trigger stop-losses before reversing direction.
+
+
+ICT Liquidity Voids: Understand liquidity gaps where price tends to
+revisit and fill, offering potential trade opportunities.
+
+
+Phase 2: Market Profiles & Structure (Weeks 5–8)
+
+
+This phase emphasizes analyzing market profiles and advanced
+structural patterns to identify trading opportunities.
+15\n\n---PAGE 20---\nRoad map
+ICT Market Profiles
+
+
+
+Weekly & Intraday Profiles: Study how the market moves within a
+week and intraday cycles to predict future price behavior.
+
+
+Daily Bias: Learn to establish a directional bias for the trading day
+based on past price action and liquidity behavior.
+
+
+Market Maker Buy/Sell Model: Understand how market makers
+manipulate price to trap retail traders and execute their orders.
+
+
+Judas Swing: Identify false moves (fake-outs) during key sessions
+that trick retail traders before a reversal.
+
+
+
+
+
+ICT Essentials & Structure Shift
+
+
+
+ICT AMD Pattern: Recognize the Accumulation, Manipulation, and
+Distribution cycle that repeats across all timeframes.
+
+
+CISD (Consolidation-Impulse-Shift-Displacement): Understand
+how price consolidates, moves impulsively, and shifts structurally.
+
+
+Market Structure Shift (MSS): Identify when market structure
+changes direction, signaling a potential reversal or continuation.
+
+16\n\n---PAGE 21---\nRoad map
+Phase 3: Timing & Execution Strategies (Weeks 9–12)
+
+
+Timing is crucial in ICT trading. This phase focuses on refining your
+entry and exit strategies through session analysis and execution
+models.
+
+
+
+ICT Time & Price Theory
+
+
+
+Session Trading: Master trading during the three major sessions:
+
+
+Asian Session: Low volatility – defines the range.
+
+
+London Session: High volatility – main price movement.
+
+
+New York (NY) Session: Reversals and continuations.
+
+
+
+ICT Kill Zones: Key times within trading sessions where institutional
+activity is most prominent.
+
+
+London Open (7 AM–10 AM GMT)
+
+
+New York Open (7 AM–10 AM EST)
+
+
+London Close (2 PM–4 PM GMT)
+
+
+Silver Bullet Strategy: A refined entry model targeting specific time
+windows with high precision.
+17\n\n---PAGE 22---\nRoad map
+Precision Entry & Trade Execution
+
+
+
+Confluences for Entries: Combine multiple factors for high-
+probability setups:
+
+
+Order Blocks
+
+
+Liquidity Zones
+
+
+Session Timing
+
+
+
+Optimal Trade Entry (OTE): Use Fibonacci retracement (61.8%-79%)
+to identify optimal entry zones.
+
+
+Backtesting: Systematically review past trades to identify recurring
+patterns and improve precision.
+
+
+
+Phase 4: Risk Management & Trading Psychology (Weeks 13–16)
+
+
+The final phase focuses on controlling risk, maintaining discipline,
+and building a sustainable trading plan.
+
+
+Risk & Money Management
+
+
+
+Risk Control: Never risk more than 2% per trade. Adjust based on
+drawdown and winning streaks.
+18\n\n---PAGE 23---\nRoad map
+Risk-to-Reward Ratio: Aim for a minimum of 1:3 (risking 1 unit to
+earn 3 units).
+
+
+Stop Loss & Take Profit: Use logical levels (e.g., above/below
+liquidity) to set clear exit points.
+
+
+
+
+Building a Consistent Trading Plan
+
+
+
+Avoid Emotional Trading: Stay disciplined to prevent over trading
+and revenge trading after losses.
+
+
+Trade Journaling: Document 100+ trades to identify patterns,
+mistakes, and areas for improvement.
+
+
+Focus on High-Probability Setups: Master 1–2 setups (e.g., OTE +
+Liquidity Sweep) before expanding.
+
+
+
+Final Thoughts:
+
+
+By following this structured ICT Trading Roadmap, you will gradually
+develop the skills and discipline needed to succeed. Each phase
+builds on the previous one, moving from understanding foundational
+concepts to advanced execution with confidence.
+
+
+Happy Trading!
+19\n\n---PAGE 24---\nPD-
+Array
+2.
+PD-Array
+20\n\n---PAGE 25---\nICT PD-Array
+ICT PD-Array stands for the “Premium and Discount Arrangement” and
+is used as a checklist to determine the trade entry points in the
+market.
+
+
+Traders use the PD arrays to find the optimal price for buying and
+selling in the market.
+
+
+As a seller you will always wish to sell at a premium price while as a
+buyer you will wish to buy at a discounted price, so the ICT PD arrays
+serve the purpose to get you the better price.
+
+
+
+
+21\n\n---PAGE 26---\nWhy T
+To identify the ICT premium and discount zone, you have to use the
+fibonacci with following inputs.
+
+
+(I) 1 (Start)
+
+(II) 0.5 (Equilibrium)
+
+(III) 0 (End)
+
+
+i
+Now plot the fibonacci from an established old high to established old
+low.
+
+
+0.5 level of Fibonacci tool is basically the 50% retracement level and
+the area above 0.5 Fibonacci retracement level is the premium zone.
+
+While the area below 0.5 fibonacci level on price chart is identified
+as discount zone.
+
+I have explained Components of PD-Array in a next 9 chapters
+individually. You can ready them chapter by chapter to get deep
+insight. Below is the list of PD-Array.
+
+
+
+1 : ICT Order Block
+
+2 : ICT Breaker Block
+
+3 : ICT Fair Value Gap
+
+4 : Inverse Fair Value Gap
+
+5 : ICT Implied Fair value Gap
+
+6 : ICT Balanced Price Range-BPR
+
+7 : ICT Rejection Block
+
+8 : ICT Vacuum Block
+
+9 : ICT Mitigation Block
+
+
+
+
+
+
+Let’s Now Go for Each Chapter of PD-Array.
+22\n\n---PAGE 27---\nICT PD-Array is used
+as a checklist to
+determine the trade
+entry points in the
+market.
+23\n\n---PAGE 28---\nWhy T
+Order Block
+**PD--Array**
+i
+ICT order block is basically an area on the price
+chart which indicates the huge institutional orders and signals the
+strong reversal or continuation of price.
+
+(I) Bullish Order Block
+
+A bullish order block is the last bearish candle before the bullish
+impulse (strong sudden) move, it typically consist of two candles, with
+the first candlestick being a bearish and the second candlestick being a
+bullish one.
+
+To identify a valid bullish order block you need to check following
+things:
+
+(I) Second candle being a bullish candle, should grab the low of
+previous bearish candle. Price should go below the low of previous
+bearish candle.
+
+
+(II) Second candle being a Bullish candle should close above the high of
+previous bearish candle.
+
+
+(III) Imbalance in lower time frame in the order block zone.
+
+
+(IV) Structure shift in lower timeframe.
+
+
+
+
+
+To sum it up we can say, second candle should completely engulf the
+first candle – body to body & wick to wick.
+24\n\n---PAGE 29---\nWhy T
+In his 2024 Mentorship Michael suggested to use all the consecutive
+bearish candles before the bullish move as an order block but the last
+bearish candle will be most sensitive one and the preferred one as an
+order block.
+
+i
+25\n\n---PAGE 30---\nWhy T
+(II) Bearish Order Block
+
+
+A bearish order block is the last bullish candle before the bearish
+impulse move, it typically consists of two candles, with the first
+candlestick being a bullish and the second candlestick being a bearish
+one.
+
+
+i
+To identify a valid bearish order block you need to check following
+things.
+
+
+(I) Second candle being a bearish candle, should grab the high of
+previous bullish candle. Price should go above the high of previous
+bearish candle.
+
+
+(II) Second candle being a bearish candle should close below the low of
+previous bullish candle.
+
+
+(III) Imbalance in lower timeframe in the order block zone.
+
+
+(IV) ICT Market Structure Shift in lower timeframe.
+
+To sum it up we can say second candle should completely engulf the
+first candle – body to body & wick to wick.
+
+
+In his 2024 Mentorship Michael suggested to use all the consecutive
+bullish candles before the bearish move as an order block but the last
+bullish candle will be most sensitive one and the preferred one as an
+order block.
+26\n\n---PAGE 31---\nWhy T
+In his 2024 Mentorship Michael suggested to use all the consecutive
+bearish candles before the bullish move as an order block but the last
+bearish candle will be most sensitive one and the preferred one as an
+order block.
+
+i
+27\n\n---PAGE 32---\nOrder block is
+basically an area on
+the price chart which
+indicates the huge
+institutional orders
+and signals the
+strong reversal or
+continuation of price.
+28\n\n---PAGE 33---\nWhy T
+Breaker Block
+**PD--Array**
+i
+A breaker block is a failed order block which is identified after a
+liquidity sweep or market structure shift.
+
+
+When an order block forms in contrast to the prevailing market’s trend,
+there is high probability of that order block being fail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(I) Bullish Breaker Bock
+
+
+When price breaks a bearish order block (price close above the high of
+bearish order block) it act as a support and push prices higher which is
+called as bullish breaker block.
+29\n\n---PAGE 34---\nWhy T
+ICT refers the consecutive up closed candles before the swing high
+(that swept liquidity and later price broke it) as bullish breaker block.
+
+
+But he narrates the last up closed candle as the most sensitive and
+hence to be precise he mostly uses only that candle as a breaker block.
+
+
+iTo identify a valid bullish breaker block you need to check following
+things:
+
+(I) Liquidity Sweep
+
+(II) A valid bearish order block.
+
+(III) Price closing above the high of bearish order block.
+
+(IV) Market structure shift to the upside.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(II) Bearish Breaker Block
+
+
+When the price breaks below a bullish order block (closing below the
+low of the bullish order block), it acts as resistance and pushes prices
+lower, which called as a bearish breaker block.
+30\n\n---PAGE 35---\nWhy T
+According to ICT, consecutive down-closed candles before the swing
+low (that cleared liquidity and then got broken by price) are referred to
+as bearish breaker blocks.
+
+
+However, ICT highlights the final down-closed candle as the most
+crucial, and typically only considers that candle as the breaker block
+ifor precision.
+
+
+To confirm a valid bearish breaker block, you need to check the
+following:
+
+
+1. A liquidity sweep.
+
+2. A valid bullish order block.
+
+3. Price closing below the low of the bullish order block.
+
+4. A shift in market structure to the downside
+31\n\n---PAGE 36---\nA breaker block is a
+failed order block
+which is identified
+after a liquidity sweep
+or market structure
+shift.
+32\n\n---PAGE 37---\nFair Value Gap
+**PD--Array**
+ICT fair value gap is a three-candle structure indicating a gap between
+the high and low of 1st and 3rd candlestick.
+
+
+The gap between three candles is created because price does not
+retrace in that area and leaves it open.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To identify an ICT FVG, you need to look for a large candlestick with
+most body range.
+
+
+After identifying the large candlestick, mark the high of candlestick
+prior to the large candle and low of the subsequent candlestick.
+
+
+There will be a visible gap between the high and low of the two
+candlesticks which indicate the ICT fair value gap.
+33\n\n---PAGE 38---\nTo identify an ICT FVG, you need to look for a large candlestick with
+most body range.
+
+
+After identifying the large candlestick, mark the high of candlestick
+prior to the large candle and low of the subsequent candlestick.
+
+There will be a visible gap between the high and low of the two
+candlesticks which indicate the ICT fair value gap.
+
+(I) Bullish Fair Value Gap
+
+A bullish fair value gap in ICT terms appears during an uptrend with a
+three-candle pattern.
+
+
+It happens when the middle candle has a large body, leaving a gap
+between the high of the first candle and the low of the third candle.
+
+
+In an uptrend, a fair value gap can serve as strong support, with the
+price often retracing to fill the gap before moving higher.
+34\n\n---PAGE 39---\n(II) Bearish Fair Value Gap
+A bearish fair value gap appears in a downtrend within a three-candle
+pattern. It forms when the middle candle has a large body, creating a
+gap between the low of the first candle and the high of the third
+candle.
+In bearish trend a fair value gap can act as a good resistance and
+mostly price tends to fill this gap before moving lower.
+35\n\n---PAGE 40---\nfair value gap is a
+three-candle
+structure indicating a
+gap between the
+high and low of 1st
+and 3rd candlestick.
+36\n\n---PAGE 41---\nInverse Fair Value Gap
+**PD--Array**
+An inverse fair value gap forms when a fair value gap fails to hold the
+price and price goes beyond, breaking the fair value gap.
+Inverse fair value gap signals the most initial shift in momentum of
+price. As price moves in a direction its respects the fair value gaps and
+continues its move.
+But if a fair value gap is violated it acts as a inverse fair value gap and
+signals the first shift in momentum of price which can result in a short
+retracement or a change in direction later.
+
+37\n\n---PAGE 42---\nAn inverse fair value
+gap forms when a fair
+value gap fails to hold
+the price and price
+goes beyond,
+breaking the fair
+value gap.
+38\n\n---PAGE 43---\nImplied Fair Value Gap
+**PD--Array**
+ICT implied fair value gap is not a typical Fair Value Gap, basically it is a
+hidden fair value gap and the algorithm uses it to reprice and balance
+the price delivery.
+It is formed when price falls/rises with a displacement move and large
+bodied candles form with the wicks overlapping each other
+representing no visual fair value gap.
+To identify the Implied fair value gap:
+Look for large body candlestick whose body is overlapped by the wicks
+of previous and next candlestick and there is no gap left.
+For the (I) Bullish Implied Fair Value Gap you have to identify a bullish
+large bodied candlestick whose body is overlapped by the wicks of
+preceding and following candlestick.
+Using the Fibonacci tool, measure the Consequent Encroachment(50%)
+level of the upper wick of the first candle (the candlestick before the
+large bullish candle).
+Next, use the Fibonacci tool to measure the Consequent
+Encroachment50% level of the lower wick of the third candle (the
+candlestick after the large bullish candle).
+Example on Next Page....
+
+39\n\n---PAGE 44---\nTo identify a Bearish Implied Fair Value Gap, you need to find a large
+bearish candlestick whose body is overlapped by the wicks of the
+preceding and following candlesticks.
+
+
+Now use the Fibonacci tool to determine the 50% level (Consequent
+Encroachment) of the lower wick of first candle (the candlestick before
+the large bearish candle).
+
+
+Next, use the Fibonacci tool to find the 50% level (Consequent
+Encroachment) of the upper wick of the third candle (the candlestick
+after the large bearish candle).
+
+40\n\n---PAGE 45---\n41\n\n---PAGE 46---\nImplied fair value gap
+is not a typical Fair
+Value Gap, basically it
+is a hidden fair value
+gap and the
+algorithm uses it to
+reprice and balance
+the price delivery.
+42\n\n---PAGE 47---\nBalanced Price Range-BPR
+**PD--Array**
+Balanced price range (BPR) is the area on price chart where two
+opposite fair value gaps overlap.
+
+
+To identify the balanced price range (BPR) you have to mark the fair
+value gap on the sell side of price and another fair value gap on the buy
+side of the price.
+
+
+Both fair value gaps being horizontally opposite to each other. Now find
+and mark the area of price where both fair value gaps overlap with
+each other.
+43\n\n---PAGE 48---\nBalanced price range
+(BPR) is the area on
+price chart where two
+opposite fair value
+gaps overlap.
+44\n\n---PAGE 49---\nRejection Block
+**PD--Array**
+ICT rejection block setup is based on the rejection wicks and liquidity
+sweep. When price sweeps old highs or lows liquidity forming long
+rejection wicks and shifting market structure, the long rejection wicks
+are termed as rejection block.
+
+
+(I) Bullish Rejection Block
+
+
+After sweeping the liquidity of old lows, when price low is formed with
+long wick(s) and the price goes up shifting the market structure to buy
+side then the long wick at the bottom is marked as rejection block.
+
+
+And when price reaches down below the body of lowest open/closed
+candle of rejection block (to run sell stops) you can execute a buy
+trade.
+45\n\n---PAGE 50---\n(II) Bearish Rejection Block
+
+
+After sweeping the liquidity of old high, when price high is formed with
+long wick(s) and the price goes down shifting the market structure to
+sell side then the long wick at the top is marked as rejection block.
+
+
+And when price reaches up above the body of highest open/closed
+candle of rejection block (to run buy stops) you can execute a sell
+trade.
+
+46\n\n---PAGE 51---\nICT rejection block
+setup is based on the
+rejection wicks and
+liquidity sweep.
+47\n\n---PAGE 52---\nVacuum Block
+**PD--Array**
+ICT vacuum block is a gap created in price action because of a high
+volatility event like FOMC, NFP or a geopolitical event like war. It can
+also be created because of a week, day or session opening.
+
+
+It is called vacuum block because of the vacuum of liquidity. When
+price opens up or down from the market price leaving a gap behind it is
+called ICT vacuum block. Because there has been no trading activity in
+that gap as no trader was able to execute trade because of high
+volatility.
+
+
+Mostly price tends to fill these gaps and then continue its move in the
+direction of gap.
+
+
+(I) Bullish Vacuum Block
+
+
+Bullish vacuum block is created when price opens above the current
+market price leaving a gap behind which may be due to a high volatility
+event or a geo political event.
+
+
+As economic or geo political events affect the price of assets so price
+can increase heavily because of these events.
+
+
+This bullish vacuum block indicates that prices are in strong up trend
+and a vacuum of liquidity is created because of the volatile event. So
+price tends to fill the vacuum of liquidity and it can reprice the gap.
+
+
+
+
+
+
+Example on Next Page............
+48\n\n---PAGE 53---\n49\n\n---PAGE 54---\n(II) Bearish Vacuum Block
+
+
+This bearish vacuum block indicates that prices are in strong up trend
+and a vacuum of liquidity is created because of the volatile event. So
+price tends to fill the vacuum of liquidity and it can reprice the gap.
+50\n\n---PAGE 55---\nVacuum block is a
+gap created in price
+action because of a
+high volatility event
+like FOMC, NFP or a
+geopolitical event like
+war.
+51\n\n---PAGE 56---\nMitigation Block
+**PD--Array**
+Mitigation block in ICT is a reversal pattern indicated by a failure of
+price to mark the higher high or lower low. It is basically a price move
+which failed to continue the current market trend and failed to break
+previous market structure.
+
+
+After the shift in market structure you can mark the failed price move
+as a mitigation block which will act as a level of support or resistance
+for the price.
+
+
+Mitigation concept basically means selling the price retracements in
+the form of short term rallies in bearish trend.
+
+
+(I) Bearish Mitigation Block
+
+
+Bearish ICT mitigation block forms at the end of a bullish trend when
+price reaches a strong bearish institutional reference point like bearish
+order block or breaker block or a higher time frame buy side liquidity is
+taken.
+
+
+When price reaches bearish institutional reference point or takes higher
+time frame buy side liquidity, then instead of making a new higher high
+it makes a lower high.
+
+
+After making a lower high price declines and breaks the previous higher
+low resulting in market structure shift to the down side.
+
+
+So this state of price delivery is called “failure of price to swing
+higher”
+
+
+Here’s the sequence of events for a bearish mitigation block:
+
+
+– Price makes a higher high (HH), followed by a pullback to form a
+higher low (HL).
+
+
+– This higher low (HL) fails to produce a new higher high, indicating a
+possible shift in market structure.
+52\n\n---PAGE 57---\n_ Price then breaks below this higher low (HL), confirming a break of
+structure (BOS) and creating a lower high (LH).
+
+
+– The whole bullish price leg which failed to continue market trend and
+mark the higher high, is the bearish mitigation block but the last down
+close candlestick before the rally is considered the most reactive and
+often marked as the mitigation block.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now the area from the swing low broken (indicated by point A in the
+picture) to the lower swing high formed (indicated by point B in the
+picture) is termed as “Bearish Mitigation Block”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53\n\n---PAGE 58---\n(II) Bullish Mitigation Block
+
+
+Bullish ICT mitigation block forms at the end of a bearish trend when
+price reaches a strong bullish institutional reference point like bullish
+order block or breaker block or a higher time frame sell side liquidity is
+taken.
+
+
+When price reaches bullish institutional reference point or takes higher
+time frame sell side liquidity then instead of making a new lower low it
+posts a higher low.
+
+
+After making a higher low price rises and breaks the previous lower
+high resulting in market structure shift to the up side.
+
+
+So this state of price delivery is called “failure of price to swing lower”
+
+
+
+
+
+Here’s how to recognize a bullish mitigation block:
+
+
+– Price forms a lower low (LL), then retraces upward to create a lower
+high (LH).
+
+
+– The lower high (LH) fails to drive price lower, suggesting a change in
+momentum.
+
+
+– Price breaks above the lower high (LH), signaling a shift in market
+structure and forming a higher low (HL).
+
+
+– The whole bearish price leg is marked as the bullish mitigation block.
+
+
+– But the last bullish (up-close) candle at the lower high (LH) becomes
+the mitigation block, representing a key demand level where price
+might return before continuing the uptrend.
+54\n\n---PAGE 59---\nNow the area from the swing high broken (indicated by point A in the
+picture) to the higher swing low formed (indicated by point B in the
+picture) is termed as “Bullish Mitigation Block”.
+55\n\n---PAGE 60---\nmitigation block is
+basically a price move
+which failed to
+continue the current
+market trend and
+failed to break
+previous market
+structure.
+56

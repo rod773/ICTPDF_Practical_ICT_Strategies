@@ -1,0 +1,94 @@
+Order Blocks are one of the first structures you learn in ICT because they represent areas where large institutional activity is believed to be concentrated.
+
+In simple terms:
+- An **Order Block** is a zone of institutional interest.
+- It can signal **reversal** or **continuation**, depending on context.
+
+---
+
+From the book:
+
+> “ICT order block is basically an area on the price chart which indicates the huge institutional orders and signals the strong reversal or continuation of price.”
+
+So your job is to recognize *the candle sequence* that created the strong impulse that follows.
+
+---
+
+A **bullish OB** is described like this:
+
+- It is typically the **last bearish candle** before the bullish impulse
+- It usually consists of **two candles**
+  - Candle 1: bearish
+  - Candle 2: bullish impulse begins
+
+You validate it with these checks:
+
+1) **Second candle grabs the low**
+   - The second candle must be bullish
+   - It should **grab the low** of the previous bearish candle
+   - Price should go **below** the previous bearish low
+
+2) **Second candle closes above the previous bearish high**
+   - The bullish candle should **close above** the high of the prior bearish candle
+
+3) **Imbalance in the lower time frame**
+   - In the OB zone, you want to see imbalance on a lower timeframe
+
+4) **Structure shift in lower timeframe**
+   - Confirm an ICT **market structure shift** on the lower timeframe
+
+The book’s emphasis:
+- The second candle should **completely engulf** the first candle:
+  - body to body
+  - wick to wick
+
+The book mentions a “consecutive candles” approach, but then clarifies sensitivity:
+- Use the last sensitive bearish candle as the preferred OB for accuracy.
+
+**To say on camera:**  
+“Order blocks are not just ‘any bearish candle.’ They’re the *last bearish candle* that gets engulfed and triggers the bullish impulse.”
+
+---
+
+A **bearish OB** is the opposite setup:
+
+- It is typically the **last bullish candle** before the bearish impulse move
+- Usually consists of two candles:
+  - Candle 1: bullish
+  - Candle 2: bearish impulse begins
+
+1) **Second candle grabs the high**
+   - The second candle must be bearish
+   - It should **grab the high** of the prior bullish candle
+   - Price should go **above** the previous bullish high
+
+2) **Second candle closes below the previous bullish low**
+   - The bearish candle closes **below** the low of the prior bullish candle
+
+3) **Imbalance on lower timeframe**
+   - Look for imbalance inside the OB region
+
+4) **ICT Market Structure Shift (lower timeframe)**
+   - Confirm structure shift to the downside
+
+Again, precision matters:
+- Candle 2 should engulf Candle 1:
+  - body + wick engulfing
+
+Same idea:
+- Even if there are multiple consecutive bullish candles,
+- the **last bullish candle** is often the most sensitive and preferred.
+
+---
+
+Use this workflow:
+
+1) Identify the **impulse move**
+2) Go backwards to find the **last opposing candle**
+3) Check bullish/bearish OB rules
+4) Confirm:
+   - engulfing
+   - imbalance on lower timeframe
+   - market structure shift
+
+---

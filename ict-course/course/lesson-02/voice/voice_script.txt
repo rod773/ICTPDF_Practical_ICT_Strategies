@@ -1,0 +1,69 @@
+In the market, not every price is equally valuable.  
+ICT uses a simple idea to structure your decisions:
+
+- **Sell where price is “expensive”** (premium)
+- **Buy where price is “cheap”** (discount)
+
+The tool that helps you do that is called the **PD-Array**.
+
+---
+
+**ICT PD-Array** stands for **“Premium and Discount Arrangement.”**  
+It’s used like a **checklist** to determine potential trade entry points.
+
+The PD-Array helps you find the **optimal price** to buy or sell:
+- As a **seller**, you generally want to sell at **premium**
+- As a **buyer**, you generally want to buy at **discount**
+
+So instead of guessing, you structure your analysis around where price is relative to equilibrium.
+
+---
+
+To identify premium and discount zones, the book shows that you:
+1. Take your swing range (an old high to an old low)
+2. Plot Fibonacci with these key inputs:
+   - (I) **1** = Start
+   - (II) **0.5** = **Equilibrium**
+   - (III) **0** = End
+
+Then interpret the Fibonacci:
+- The **0.5 level** is the **equilibrium**
+- **Above 0.5** = **Premium zone**
+- **Below 0.5** = **Discount zone**
+
+**Important callout:**  
+When you see price above equilibrium, focus on sell-side opportunities.  
+When price is below equilibrium, focus on buy-side opportunities.
+
+---
+
+The book states that PD-Array is “explained component by component” in later chapters.  
+In this course, we cover these nine PD-Array setups:
+
+1. ICT Order Block  
+2. ICT Breaker Block  
+3. ICT Fair Value Gap (FVG)  
+4. Inverse Fair Value Gap  
+5. ICT Implied Fair Value Gap  
+6. ICT Balanced Price Range (BPR)  
+7. ICT Rejection Block  
+8. ICT Vacuum Block  
+9. ICT Mitigation Block  
+
+**What to say on camera:**  
+“These are the ‘checkpoints.’ You don’t trade randomly—you check which PD-Array structure is present in the right premium/discount area.”
+
+---
+
+Use this simple checklist:
+
+1) Identify the **dealing range** (old high to old low)  
+2) Plot Fibonacci and locate **0.5 equilibrium**  
+3) Decide bias:
+   - Above 0.5 → premium (watch for sells)
+   - Below 0.5 → discount (watch for buys)
+4) Look for PD-Array structures:
+   - Order Block / Breaker Block / FVG / etc.
+5) Confirm with price delivery logic and execution levels
+
+---

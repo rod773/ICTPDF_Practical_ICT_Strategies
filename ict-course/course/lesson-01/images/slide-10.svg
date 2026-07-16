@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080">
+  <rect width="100%" height="100%" fill="#0B0F1A"/>
+  <text x="90" y="110" font-family="Arial" font-size="54" fill="#FFFFFF">Lesson</text>
+  <text x="420" y="110" font-family="Arial" font-size="54" fill="#00D4FF">01</text>
+  <text x="90" y="160" font-family="Arial" font-size="36" fill="#FFFFFF">Scene</text>
+  <text x="90" y="160" font-family="Arial" font-size="30" fill="#D0D7E2">High-level definition:
+- ICT (Inner Circle Trader) trading is a methodology associated with Michael J.</text>
+<text x="90" y="194" font-family="Arial" font-size="30" fill="#D0D7E2">Huddleston.
+- The core emphasis is on the **relationship between time and price**.
+- Price delivery is</text>
+<text x="90" y="228" font-family="Arial" font-size="30" fill="#D0D7E2">tied to a concept of liquidity targeting through the **IPDA** (Interbank Price Delivery Algorithm).</text>
+</svg>

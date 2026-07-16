@@ -1,0 +1,28 @@
+{
+  "courseName": "ICT Practical ICT Trading Strategies - Video Course",
+  "outputRoot": "ict-course/course",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "slide": {
+    "background": "#0B0F1A",
+    "titleColor": "#FFFFFF",
+    "bodyColor": "#D0D7E2",
+    "accentColor": "#00D4FF",
+    "fontFamily": "Arial"
+  },
+  "ffmpeg": {
+    "videoCodec": "libx264",
+    "crf": 18,
+    "audioCodec": "aac",
+    "preset": "veryfast",
+    "pixFmt": "yuv420p"
+  },
+  "generation": {
+    "placeholderSlides": true,
+    "slideDurationSecondsFallback": 6,
+    "maxLinesPerSlide": 8
+  }
+}
