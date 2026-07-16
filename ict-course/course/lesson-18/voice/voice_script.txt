@@ -1,0 +1,35 @@
+The ICT market maker models reveal how price moves from accumulation to distribution. These are not indicators — they are blueprints of institutional order flow. When you understand them, you stop guessing where price is going and start reading the footprints of the smart money.
+
+**Phase I — Accumulation**
+Price moves up and then retraces to accumulate more positions. Institutions build their long inventory during this phase. The range formed here is the accumulation range — mark its high and low.
+
+**Phase II — Manipulation**
+Price drops below the accumulation low to hunt sell stops. This move traps retail traders into thinking the downtrend continues. They short the breakout, or they exit long positions in fear. This is the shakeout.
+
+**Phase III — Distribution**
+Price rallies hard, breaking above the accumulation high. Institutions now distribute their long positions into buying pressure from latecomers. The real trend is finally visible, but the smart money is already positioned.
+
+You need a bullish daily bias first. Mark the accumulation range high and low. Wait for the manipulation sweep below the accumulation low. Once that happens, drop to a lower timeframe and look for a Market Structure Shift (MSS) or a Change in State of Delivery (CISD) to confirm the reversal. Enter long at a PD Array or Fair Value Gap in the discount zone. Target: buy-side liquidity above the old high.
+
+**Phase I — Accumulation**
+Price drops and then retraces up. Institutions build short inventory. Mark the accumulation range high and low.
+
+**Phase II — Manipulation**
+Price rallies above the accumulation high to hunt buy stops. Retail traders are trapped into thinking the uptrend continues. They buy the breakout.
+
+**Phase III — Distribution**
+Price drops hard, breaking below the accumulation low. Institutions distribute their short positions. The sell-off is violent and fast.
+
+Bearish daily bias is required. Mark the accumulation range. After manipulation above the range high, go to a lower timeframe and wait for MSS or CISD confirmation. Enter short at a PD Array in the premium zone. Target: sell-side liquidity below.
+
+The Judas Swing gets its name from the biblical figure Judas, who betrayed Jesus with a kiss. In trading, it is a false move that betrays traders just before the real move begins.
+
+**Bullish Market Judas Swing**
+A strong bearish move below the recent low shakes out weak hands and traps sellers. Then price reverses and rallies hard. The false breakdown was the Judas Swing.
+
+**Bearish Market Judas Swing**
+A strong bullish move above the recent high traps buyers. Everyone thinks the breakout is real. Then price reverses and drops sharply. The false breakout was the Judas Swing.
+
+First, it is a quick and sharp move. Second, it takes out obvious liquidity sitting at recent highs or lows. Third, it reverses immediately after the sweep — no consolidation. Fourth, it happens at key structural levels where traders place their stops.
+
+---

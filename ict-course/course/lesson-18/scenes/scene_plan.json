@@ -1,0 +1,88 @@
+{
+  "scenes": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "duration": 6.0,
+      "image": "slide-01.png"
+    },
+    {
+      "index": 2,
+      "start": 6.0,
+      "duration": 6.0,
+      "image": "slide-02.png"
+    },
+    {
+      "index": 3,
+      "start": 12.0,
+      "duration": 6.0,
+      "image": "slide-03.png"
+    },
+    {
+      "index": 4,
+      "start": 18.0,
+      "duration": 6.0,
+      "image": "slide-04.png"
+    },
+    {
+      "index": 5,
+      "start": 24.0,
+      "duration": 6.0,
+      "image": "slide-05.png"
+    },
+    {
+      "index": 6,
+      "start": 30.0,
+      "duration": 6.0,
+      "image": "slide-06.png"
+    },
+    {
+      "index": 7,
+      "start": 36.0,
+      "duration": 6.0,
+      "image": "slide-07.png"
+    },
+    {
+      "index": 8,
+      "start": 42.0,
+      "duration": 6.0,
+      "image": "slide-08.png"
+    },
+    {
+      "index": 9,
+      "start": 48.0,
+      "duration": 6.0,
+      "image": "slide-09.png"
+    },
+    {
+      "index": 10,
+      "start": 54.0,
+      "duration": 6.0,
+      "image": "slide-10.png"
+    },
+    {
+      "index": 11,
+      "start": 60.0,
+      "duration": 6.0,
+      "image": "slide-11.png"
+    },
+    {
+      "index": 12,
+      "start": 66.0,
+      "duration": 6.0,
+      "image": "slide-12.png"
+    },
+    {
+      "index": 13,
+      "start": 72.0,
+      "duration": 6.0,
+      "image": "slide-13.png"
+    },
+    {
+      "index": 14,
+      "start": 78.0,
+      "duration": 6.0,
+      "image": "slide-14.png"
+    }
+  ]
+}

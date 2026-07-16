@@ -1,0 +1,112 @@
+Market structure is the foundation of ICT trading. It tells you the **framework** within which a market is trading at any given time — and it provides insight into the market's behavior, condition, and current flow.
+
+Without understanding market structure, you're just guessing. With it, you can see whether the market is trending up, trending down, or ranging — and more importantly, when that trend is about to change.
+
+In this lesson we go beyond simple swing highs and swing lows. We're going to classify them into **Short Term**, **Intermediate Term**, and **Long Term** — for both highs and lows. This is the hierarchy the smart money uses.
+
+---
+
+Before we dive into the hierarchy, let's establish the three basic types:
+
+**Bullish Market Structure:** Consistently rising prices. Price makes higher long-term highs and higher long-term lows. Each pullback finds support at a level higher than the last one.
+
+**Bearish Market Structure:** Consistently falling prices. Price makes lower long-term lows and lower long-term highs. Each rally finds resistance at a level lower than the last one.
+
+**Sideways Market Structure:** Price trades in a range, making equal highs and equal lows. No clear direction. Also called consolidation or accumulation.
+
+Understanding which of these three you're in determines your entire trading bias.
+
+---
+
+An ICT Short Term High is a **swing high** formed by a three-candle formation.
+
+The rule: the high (the wick) of the middle candle must be **higher** than the high of both the candle on its left and the candle on its right.
+
+That's it. Three candles. Middle candle's high is above both neighbors. That middle candle's high is your STH.
+
+**On screen:** Diagram showing three candles — middle candle's wick clearly higher than left and right candles.
+
+These are the smallest meaningful highs in the ICT framework. They form constantly on lower timeframes and are the building blocks for the larger structures.
+
+---
+
+An Intermediate Term High is a step up in the hierarchy.
+
+An ITH is basically a Short Term High — but with a lower Short Term High on its **left** and a lower Short Term High on its **right**.
+
+Think of it as an STH that is framed by two lower STHs. The middle STH becomes the ITH.
+
+**On screen:** Diagram showing three STHs — the middle one is higher than the one on the left and the one on the right. Label the middle one "ITH".
+
+This creates a fractal structure. STHs nest inside ITHs. You can't have an ITH without first having STHs to compare.
+
+---
+
+Now we go to the top of the hierarchy.
+
+A Long Term High is also an Intermediate Term High by nature — but with a key difference: it is **mostly formed at a higher timeframe PD Array** after a reaction of price.
+
+An LTH is the **highest** Intermediate Term High, with a **lower** Intermediate Term High on its left and a **lower** Intermediate Term High on its right.
+
+**On screen:** Diagram showing three ITHs — the middle one is the highest. Label it "LTH". Show a higher timeframe PD Array zone behind it.
+
+In a bullish market structure, price makes **higher LTHs** and **higher LTLs**. If price is supposed to continue higher, it should **not** violate the recent higher long-term low.
+
+This is your major structural level. When price breaks below a recent higher LTL, the bullish structure is in danger.
+
+---
+
+Now let's flip to the downside.
+
+An ICT Short Term Low is a **swing low** formed by a three-candle formation.
+
+The rule: the low (the wick) of the middle candle must be **lower** than the low of both the candle on its left and the candle on its right.
+
+**On screen:** Diagram showing three candles — middle candle's wick clearly lower than left and right candles.
+
+Just like STHs, STLs are the smallest meaningful lows. They form constantly and are the building blocks for ITLs and LTLs.
+
+---
+
+An Intermediate Term Low is a Short Term Low with a **higher** Short Term Low on its left and a **higher** Short Term Low on its right.
+
+Notice the pattern: for ITHs we looked for lower STHs on either side. For ITLs we look for **higher** STLs on either side. The middle STL, being the lowest of the three, becomes your ITL.
+
+**On screen:** Diagram showing three STLs — the middle one is lower than the left and right STLs. Label it "ITL".
+
+ITLs are the intermediate support levels. They matter more than STLs but less than LTLs.
+
+---
+
+A Long Term Low is the most significant low structure.
+
+An LTL is also an Intermediate Term Low by nature — but it is **mostly formed at a higher timeframe PD Array**.
+
+An LTL is the **lowest** Intermediate Term Low, with a **higher** Intermediate Term Low on its left and a **higher** Intermediate Term Low on its right.
+
+**On screen:** Diagram showing three ITLs — the middle one is the lowest. Label it "LTL". Show a higher timeframe PD Array zone behind it.
+
+In a bearish market structure, price makes **lower LTLs** and **lower LTHs**. If price breaks above the recent lower LTH, the bearish structure is no longer valid.
+
+---
+
+Here's the practical application:
+
+**Bullish structure check:**
+- Price makes higher LTHs and higher LTLs
+- If price violates the most recent higher LTL, it is **no longer bullish**
+- That violation is your signal that a reversal or deep retracement is coming
+
+**Bearish structure check:**
+- Price makes lower LTLs and lower LTHs
+- If price breaks **above** the most recent lower LTH, it is **no longer bearish**
+- That break tells you the downtrend is failing
+
+**The hierarchy matters:**
+- Don't get distracted by STH/STL breaks — those are normal
+- ITH/ITL breaks are more significant
+- LTH/LTL breaks signal a structural shift
+
+This is how you move from looking at random swings to reading the market's actual delivery system. You stop trading every wiggle and start trading the structure that matters.
+
+---

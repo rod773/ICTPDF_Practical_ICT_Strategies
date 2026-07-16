@@ -1,0 +1,107 @@
+---
+
+**[0:00–1:00] — Introduction**
+
+Every trader asks the same question at the start of the day: which way is price likely to go? ICT Daily Bias is the answer.
+
+Daily bias is simply the anticipated direction of price for the day. It helps you filter opportunities — you only look for buys when the bias is bullish, and only look for sells when it's bearish. Without a bias, you're just guessing. With a bias, you have a framework.
+
+And here's the good news: you only need one thing to find it — the ICT Market Structure Shift on the daily chart.
+
+---
+
+**[1:00–2:30] — What Is ICT Daily Bias?**
+
+The daily bias is your directional compass for the trading day. It tells you whether you should be looking for long setups or short setups.
+
+To determine the bias, you look exclusively at the **1-day timeframe**. That's it. No lower timeframes for the bias itself — that comes later during execution.
+
+You're looking for one thing: the most recent **ICT Market Structure Shift** (MSS). If price recently broke structure to the upside, you have a bullish bias. If it broke structure to the downside, you have a bearish bias.
+
+Think of it this way: the daily chart tells you who's in control. If the bulls recently took control, you want to be buying pullbacks into discount. If the bears recently took control, you want to be selling rallies into premium.
+
+---
+
+**[2:30–4:00] — Bullish Daily Bias — Step by Step**
+
+Let's walk through the bullish side first.
+
+**Step 1: Find the Discount Zone or ICT OTE Sweet Spot.** On the daily chart, identify the discount area — that's the region below the 0.5 Fibonacci retracement level. You can also use the ICT OTE Pattern sweet spot, which sits between the 0.62 and 0.79 Fibonacci levels.
+
+**Step 2: Wait for price to trade back into the discount zone or OTE sweet spot.** The market may rally and then pull back. You're waiting for that pullback to reach your target area on the daily chart.
+
+**Step 3: Verify that price has NOT shifted structure to the sell-side** while retracing into discount. This is critical. If price breaks structure to the downside during the pullback, the bullish bias is invalidated. The retracement must remain a clean pullback within the existing bullish structure.
+
+**Step 4: Look for confirmation on a lower timeframe.** Once price is in the discount zone or OTE sweet spot, drop down to a lower timeframe — 15 minutes or higher. Wait for an ICT market structure shift to the upside on that lower timeframe. The higher the timeframe you use for confirmation, the more reliable the signal.
+
+**Step 5: Execute your long trade** with appropriate risk management.
+
+Let me give you a concrete example. Imagine the daily chart shows an upside break of structure from a swing low. Price rallies for several days, then starts pulling back. It reaches the 0.7 Fibonacci level — the OTE sweet spot — and sits there. Meanwhile, on the 15-minute chart, you see price form a lower low that immediately reverses and breaks above a previous swing high. That's your MSS confirmation. You now have both a bullish daily bias and a lower timeframe entry trigger.
+
+---
+
+**[4:00–5:30] — Bearish Daily Bias — Step by Step**
+
+Now the mirror image.
+
+**Step 1: Identify the Premium Zone or ICT OTE Sweet Spot.** On the daily chart, locate the premium area — that's the region above the 0.5 Fibonacci level. Or pinpoint the OTE sweet spot between the 0.62 and 0.79 levels.
+
+**Step 2: Wait for price to trade back into the premium zone or OTE sweet spot.** After a bearish move, price will often retrace higher. You're waiting for that retracement to reach your target premium area.
+
+**Step 3: Verify that price has NOT shifted structure to the buy-side** during the retracement. If price breaks structure to the upside while retracing into premium, the bearish bias is invalid. The retracement must respect the existing bearish structure.
+
+**Step 4: Look for confirmation on a lower timeframe.** When price hits the premium zone or OTE sweet spot, switch to a timeframe of 15 minutes or higher. Wait for a market structure shift to the downside. Higher timeframe confirmation means greater validity.
+
+**Step 5: Execute your short trade.**
+
+Here's the bearish example. The daily chart shows a clean break of structure to the downside. Price then retraces higher, reaching the 0.75 Fibonacci level in the premium zone — the OTE sweet spot. Price hasn't broken any swing highs on the daily during this retrace — structure is intact. On the 15-minute chart, you see price make a higher high that quickly reverses and breaks below the previous swing low. That's your sell-side MSS. You have a bearish daily bias with confirmation. You take the short.
+
+---
+
+**[5:30–7:00] — Important Rules & Common Mistakes**
+
+A few things you need to keep in your mind at all times.
+
+**Rule 1: The higher timeframe confirmation is more valid.** If you can get an MSS confirmation on a 1-hour chart instead of a 15-minute chart, that's better. The signal is stronger. Never go below 15 minutes — anything lower is noise for confirmation purposes.
+
+**Rule 2: Structure must remain intact while price retraces.** If price reaches your discount zone but also breaks structure on the daily during the retrace, you don't have a valid bias anymore. The market is telling you something changed. Listen to it.
+
+**Rule 3: Don't force a bias.** Not every day has a clear daily bias. If the daily chart is ranging with no clean MSS in either direction, sit on your hands. The market doesn't owe you a trade every day.
+
+**Common mistake:** Using lower timeframes to determine the bias itself. Don't do this. The bias comes from the daily chart and the daily chart only. Lower timeframes are only used for confirmation and entry.
+
+**Another common mistake:** Ignoring the structure shift check. Traders see price in the OTE sweet spot and immediately take a trade without checking whether structure was broken during the retrace. This gets you killed. Always verify.
+
+---
+
+**[7:00–8:00] — Practical Walkthrough**
+
+Let's put it all together with a full example.
+
+You open your charts on Monday morning. You pull up the daily chart for EUR/USD. You see that price was in a downtrend, made a lower low, and then broke above the previous swing high — a bullish MSS on the daily. Your bias is bullish.
+
+Price has since pulled back. You draw your Fibonacci retracement from the swing low to the recent swing high. Price is now sitting at the 0.7 level — inside the OTE sweet spot.
+
+You check the daily structure: during the pullback, no swing low was broken. Structure is intact.
+
+Now you drop to the 15-minute chart. You see price make a series of lower highs and lower lows — a mini downtrend within the pullback. Then it breaks above a swing high on the 15-minute. MSS to the upside.
+
+You have everything: bullish daily bias, price in OTE sweet spot on daily, intact structure, and lower timeframe confirmation. You go long.
+
+That's the process. Every time.
+
+---
+
+**[8:00–9:00] — Summary**
+
+To close out:
+
+- ICT Daily Bias is your anticipated direction for the day, determined solely from the daily chart.
+- Bullish bias: look for a recent MSS to the upside on the daily, then wait for price to retrace into discount or OTE without breaking buy-side structure.
+- Bearish bias: look for a recent MSS to the downside on the daily, then wait for price to retrace into premium or OTE without breaking sell-side structure.
+- Confirmation comes from a lower timeframe MSS — 15 minutes or higher. The higher the confirmation timeframe, the better.
+- If structure breaks during the retrace, the bias is invalid. Move on.
+
+The daily bias concept keeps you on the right side of the market. Use it before every trade and you'll stop fighting the daily trend.
+
+---
