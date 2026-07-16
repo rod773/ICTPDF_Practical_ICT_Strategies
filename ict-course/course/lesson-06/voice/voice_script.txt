@@ -1,0 +1,49 @@
+In ICT, a Fair Value Gap (FVG) is an inefficiency.  
+Often, after it forms, price behaves as if that zone is important—like support or resistance.
+
+But what if price **violates** the FVG instead of respecting it?
+
+That scenario leads to the next structure: the **Inverse Fair Value Gap**.
+
+---
+
+From the book:
+
+- An **inverse fair value gap** forms when a fair value gap **fails to hold**
+- Price goes **beyond** and breaks the fair value gap
+- Inverse FVG signals the **most initial shift in momentum**
+- That shift can result in:
+  - a short retracement, or
+  - a change in direction later
+
+**Key idea to repeat on camera:**  
+“Inverse FVG = FVG fails → price breaks through → momentum shifts early.”
+
+---
+
+To identify an inverse FVG, you need to see this sequence:
+
+1) A fair value gap exists (from earlier price action)
+2) Price attempts to respect it
+3) Instead of holding, price **breaks through the FVG**
+4) That break is what you interpret as the **inverse FVG signal**
+
+So you’re no longer treating the FVG as a support/resistance zone—you’re treating it as proof that the market delivery logic changed.
+
+---
+
+The inverse FVG is valuable because it helps you detect:
+- early momentum changes,
+- potential short retracements, or
+- a later directional shift.
+
+**How to teach it clearly:**
+- “When the FVG fails, the market shows it is no longer respecting inefficiency as expected.”
+- “The market is repricing. That repricing often begins with a momentum shift.”
+
+---
+
+This lesson is about *recognition* and *interpretation*.  
+Your actual execution should always be confirmed with the broader ICT context you’re learning in the course (PD-Array premium/discount, liquidity events, market structure shift).
+
+---

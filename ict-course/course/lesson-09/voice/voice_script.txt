@@ -1,0 +1,65 @@
+Sometimes you see price open and move rapidly, leaving behind a **zone** where trading activity looks “thin.”
+
+ICT calls that zone a **vacuum block**.
+
+In other words: price left a temporary **vacuum of liquidity**, and the market often revisits it.
+
+---
+
+From the book:
+
+- “ICT vacuum block is a gap created in price action because of a high volatility event…”
+- It can also be created by opening gaps (week/day/session opening).
+- “It is called vacuum block because of the vacuum of liquidity.”
+
+Core idea:
+- There has been **no trading activity** in the gap (no meaningful fills)
+- So price often later **fills the gap** and then **continues** the move.
+
+---
+
+The book lists examples:
+- high volatility events like **FOMC, NFP**
+- geopolitical events like **war**
+
+Teach this clearly:
+- Big news → sudden repricing → liquidity can’t “trade smoothly”
+- That creates a gap/inefficiency
+- Later, price tends to return to rebalance and fill
+
+---
+
+**Bullish vacuum block** logic from the book:
+
+- “Bullish vacuum block is created when price opens above the current market price leaving a gap behind it…”
+
+Interpretation:
+- The market opens up sharply.
+- Because of volatility, there’s a vacuum of liquidity in the gap.
+- Price often **fills** the vacuum first.
+- After filling, it can **reprices** and continue in the uptrend direction.
+
+---
+
+**Bearish vacuum block** logic from the book (mirror concept):
+
+- A bearish vacuum indicates the market opens down sharply, leaving a gap.
+- Liquidity vacuum forms.
+- Price tends to fill the gap.
+- Then it reprices and continues (typically in the bearish direction context).
+
+> Key teaching emphasis:  
+> Vacuum blocks are about **gap fill + continuation**, driven by liquidity vacuum.
+
+---
+
+In a real trading system, don’t treat vacuum blocks as standalone triggers.
+
+Use them like:
+- a **zone of likely revisiting**
+- which you confirm with:
+  - liquidity events,
+  - PD-Array premium/discount context,
+  - and market structure shift.
+
+---
