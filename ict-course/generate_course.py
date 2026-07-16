@@ -247,20 +247,49 @@ def make_placeholder_slides(lesson_dir: Path, narration_text: str) -> list[Path]
     return slide_files
 
 
-def build_scene_plan(lesson_dir: Path, slide_files: list[Path], fallback_per_slide: int) -> dict:
-    # Create plan with constant duration per slide. Exact timestamps are handled by ffmpeg concat.
+def split_narration(text: str, num_chunks: int) -> list[str]:
+    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+    if not paragraphs:
+        return [""] * num_chunks
+    if len(paragraphs) <= num_chunks:
+        result = list(paragraphs)
+        while len(result) < num_chunks:
+            result.append("")
+        return result
+    chunks = []
+    per_chunk = len(paragraphs) // num_chunks
+    extra = len(paragraphs) % num_chunks
+    idx = 0
+    for i in range(num_chunks):
+        n = per_chunk + (1 if i < extra else 0)
+        chunks.append("\n\n".join(paragraphs[idx:idx + n]))
+        idx += n
+    return chunks
+
+
+def create_silent_audio(path: Path, duration_sec: float = 1.0) -> None:
+    ensure_dir(path.parent)
+    cmd = [
+        "ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
+        "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono",
+        "-t", str(duration_sec),
+        "-c:a", "aac",
+        str(path),
+    ]
+    subprocess.run(cmd, check=True)
+
+
+def build_scene_plan(lesson_dir: Path, slide_files: list[Path], audio_files: list[Path]) -> dict:
     scenes = []
     t = 0.0
-    for idx, img in enumerate(slide_files, start=1):
-        dur = float(fallback_per_slide)
-        scenes.append(
-            {
-                "index": idx,
-                "start": t,
-                "duration": dur,
-                "image": img.name,
-            }
-        )
+    for idx, (img, a_path) in enumerate(zip(slide_files, audio_files), start=1):
+        dur = get_audio_duration_seconds(a_path) if a_path.exists() else 1.0
+        scenes.append({
+            "index": idx,
+            "start": t,
+            "duration": dur,
+            "image": img.name,
+        })
         t += dur
 
     plan = {"scenes": scenes}
@@ -288,79 +317,51 @@ async def tts_edge_to_mp3(text: str, out_mp3: Path, voice: str) -> None:
     out_tmp.replace(out_mp3)
 
 
-def render_mp4(lesson_dir: Path, slide_pngs: list[Path], audio_path: Path, out_mp4: Path, canvas: Canvas) -> None:
-    images_dir = lesson_dir / "images"
+def render_mp4_from_segments(lesson_dir: Path, slides_with_audio: list[tuple[Path, Path]], out_mp4: Path, canvas: Canvas) -> None:
     ensure_dir(out_mp4.parent)
+    segments_dir = lesson_dir / ".segments"
+    ensure_dir(segments_dir)
 
-    # Create slideshow video from image sequence (constant framerate)
-    # We'll assume placeholder constant duration determined by slide count:
-    # total video length must match audio length; for simplicity, we loop/truncate by -shortest.
-    # Set per-frame duration: use 1 fps * duration? We’ll use -framerate equal to 1/slide_duration seconds.
-    # With fixed fallback, approximate:
-    # Determine duration from audio
-    audio_dur = get_audio_duration_seconds(audio_path)
+    segment_files = []
+    for idx, (slide_path, audio_path) in enumerate(slides_with_audio):
+        seg = segments_dir / f"seg-{idx:02d}.mp4"
+        segment_files.append(seg)
+        cmd = [
+            "ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
+            "-loop", "1",
+            "-framerate", str(canvas.fps),
+            "-i", str(slide_path.resolve()),
+            "-i", str(audio_path.resolve()),
+            "-c:v", "libx264",
+            "-preset", "veryfast",
+            "-crf", "18",
+            "-pix_fmt", "yuv420p",
+            "-c:a", "aac",
+            "-shortest",
+            str(seg),
+        ]
+        subprocess.run(cmd, check=True)
 
-    slide_count = len(slide_pngs)
-    per_slide = max(1.0, audio_dur / slide_count) if slide_count else audio_dur
+    concat_file = segments_dir / "concat.txt"
+    concat_file.write_text(
+        "\n".join(f"file '{seg.resolve()}'" for seg in segment_files),
+        encoding="utf-8",
+    )
 
-    # -framerate for images to display: frames per second = 1 / per_slide
-    fps = 1.0 / per_slide
-    # But ffmpeg expects rational; pass as float
-    tmp_video = out_mp4.with_suffix(".tmp.mp4")
-
-    # Use concat demuxer list for exact ordering with -loop? easiest with image2 pattern:
-    # slide-01.png ... slide-NN.png
-    # Ensure filenames are sequential
-    pattern = str((images_dir / "slide-%02d.png").resolve())
-
-    cmd_vid = [
-        "ffmpeg",
-        "-y",
-        "-hide_banner",
-        "-loglevel",
-        "error",
-        "-framerate",
-        str(fps),
-        "-i",
-        pattern,
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-crf",
-        "18",
-        "-pix_fmt",
-        "yuv420p",
-        "-shortest",
-        str(tmp_video),
-    ]
-    subprocess.run(cmd_vid, check=True)
-
-    # Mux audio
-    cmd_mux = [
-        "ffmpeg",
-        "-y",
-        "-hide_banner",
-        "-loglevel",
-        "error",
-        "-i",
-        str(tmp_video),
-        "-i",
-        str(audio_path),
-        "-c:v",
-        "copy",
-        "-c:a",
-        "aac",
-        "-map",
-        "0:v:0",
-        "-map",
-        "1:a:0",
-        "-shortest",
+    cmd_concat = [
+        "ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
+        "-f", "concat",
+        "-safe", "0",
+        "-i", str(concat_file.resolve()),
+        "-c", "copy",
         str(out_mp4),
     ]
-    subprocess.run(cmd_mux, check=True)
-    if tmp_video.exists():
-        tmp_video.unlink()
+    subprocess.run(cmd_concat, check=True)
+
+    for seg in segment_files:
+        seg.unlink(missing_ok=True)
+    concat_file.unlink(missing_ok=True)
+    segments_dir.rmdir()
 
 
 def get_audio_duration_seconds(audio_path: Path) -> float:
@@ -383,8 +384,6 @@ def build_lesson(lesson_id: str, canvas: Canvas, voice: str, placeholder_slide_d
     lesson_dir = COURSE_ROOT / f"lesson-{lesson_id}"
     ensure_dir(lesson_dir)
 
-    src_md = REPO_ROOT / "scripts" / f"lesson-{lesson_id}-*.md"
-    # Read content for extraction
     lesson_md = read_lesson_script(lesson_id)
     narration = extract_narration_text(lesson_md)
 
@@ -400,19 +399,6 @@ def build_lesson(lesson_id: str, canvas: Canvas, voice: str, placeholder_slide_d
     voice_script = voice_dir / "voice_script.txt"
     voice_script.write_text(narration, encoding="utf-8")
 
-    audio_path = voice_dir / "audio.mp3"
-    if not audio_path.exists():
-        import asyncio
-
-        if edge_tts is None:
-            raise RuntimeError(
-                "edge_tts is not installed. Install it: pip install edge-tts"
-            )
-        asyncio.run(tts_edge_to_mp3(narration, audio_path, voice=voice))
-    else:
-        print(f"[skip] audio exists: {audio_path}")
-
-    # Use PDF page images as slides when available, fallback to placeholder text slides
     pdf_slides = make_pdf_slides(lesson_id, lesson_dir)
     if pdf_slides:
         slide_pngs = pdf_slides
@@ -420,11 +406,33 @@ def build_lesson(lesson_id: str, canvas: Canvas, voice: str, placeholder_slide_d
     else:
         slide_pngs = make_placeholder_slides(lesson_dir, narration)
         print(f"[slides] {len(slide_pngs)} placeholder slides for lesson {lesson_id}")
-    build_scene_plan(lesson_dir, slide_pngs, fallback_per_slide=placeholder_slide_duration)
+
+    slide_count = len(slide_pngs)
+    if slide_count == 0:
+        print(f"[skip] No slides for lesson {lesson_id}")
+        return
+
+    chunks = split_narration(narration, slide_count)
+    audio_files = []
+    for idx, chunk in enumerate(chunks, start=1):
+        a_path = voice_dir / f"audio-{idx:02d}.mp3"
+        audio_files.append(a_path)
+        if a_path.exists():
+            print(f"[skip] audio exists: {a_path}")
+            continue
+        if not chunk.strip():
+            create_silent_audio(a_path, 1.0)
+            continue
+        if edge_tts is None:
+            raise RuntimeError("edge_tts is not installed. Install it: pip install edge-tts")
+        import asyncio
+        asyncio.run(tts_edge_to_mp3(chunk, a_path, voice=voice))
+
+    build_scene_plan(lesson_dir, slide_pngs, audio_files)
 
     out_mp4 = video_dir / f"lesson-{lesson_id}.mp4"
     if not out_mp4.exists():
-        render_mp4(lesson_dir, [Path(p) for p in slide_pngs], audio_path, out_mp4, canvas)
+        render_mp4_from_segments(lesson_dir, list(zip(slide_pngs, audio_files)), out_mp4, canvas)
     else:
         print(f"[skip] video exists: {out_mp4}")
 
