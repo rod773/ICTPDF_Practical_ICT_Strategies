@@ -101,6 +101,87 @@ def extract_narration_text(md: str) -> str:
     return cleaned
 
 
+PDF_PAGES_DIR = REPO_ROOT / "pdf_pages"
+
+LESSON_NAMES = {
+    "01": "Introduction",
+    "02": "ICT PD-Array",
+    "03": "Order Blocks",
+    "04": "Breaker Blocks",
+    "05": "Fair Value Gap",
+    "06": "Inverse FVG",
+    "07": "Implied FVG & BPR",
+    "08": "Rejection Block",
+    "09": "Vacuum Block",
+    "10": "Mitigation Block",
+    "11": "Buy & Sell Side Liquidity",
+    "12": "High/Low Resistance & Internal/External Range",
+    "13": "Liquidity Pool, Void, Sweep & Run",
+    "14": "Weekly Profiles",
+    "15": "Daily Bias",
+    "16": "Intraday Profiles",
+    "17": "Advanced Market Structure",
+    "18": "Market Maker Models & Judas Swing",
+    "19": "IRL to ERL & HRLR to LRLR",
+    "20": "AMD, MSS, CISD & Turtle Soup",
+    "21": "Asian Range & ICT Macros",
+    "22": "Silver Bullet & Kill Zones",
+    "23": "Bonus Lecture: 2024 Model",
+    "24": "Risk Management",
+}
+
+
+def make_pdf_slides(lesson_id: str, lesson_dir: Path) -> list[Path]:
+    images_dir = lesson_dir / "images"
+    ensure_dir(images_dir)
+
+    cfg = load_config()
+    lesson_pages = cfg.get("lesson_pages", {})
+    page_nums = lesson_pages.get(lesson_id, [])
+    if not page_nums:
+        return []
+
+    from PIL import Image, ImageDraw, ImageFont
+
+    try:
+        font_title = ImageFont.truetype("arial.ttf", 48)
+        font_subtitle = ImageFont.truetype("arial.ttf", 32)
+    except Exception:
+        font_title = ImageFont.load_default()
+        font_subtitle = font_title
+
+    slide_files = []
+    for idx, pnum in enumerate(page_nums, start=1):
+        src = PDF_PAGES_DIR / f"page-{pnum:03d}.png"
+        if not src.exists():
+            continue
+
+        page_img = Image.open(src).convert("RGB")
+        pw, ph = page_img.size
+        target_w, target_h = 1920, 1080
+        scale = min(target_w / pw, target_h / ph)
+        new_w = int(pw * scale)
+        new_h = int(ph * scale)
+        page_img = page_img.resize((new_w, new_h), Image.LANCZOS)
+
+        canvas = Image.new("RGB", (target_w, target_h), (11, 15, 26))
+        x_offset = (target_w - new_w) // 2
+        y_offset = (target_h - new_h) // 2
+        canvas.paste(page_img, (x_offset, y_offset))
+
+        draw = ImageDraw.Draw(canvas)
+        lesson_label = lesson_id
+        lesson_name = LESSON_NAMES.get(lesson_id, "")
+        draw.text((40, 20), f"Lesson {lesson_label}", font=font_title, fill=(255, 255, 255))
+        draw.text((40, 72), lesson_name, font=font_subtitle, fill=(0, 212, 255))
+
+        png_path = images_dir / f"slide-{idx:02d}.png"
+        canvas.save(png_path)
+        slide_files.append(png_path)
+
+    return slide_files
+
+
 def make_placeholder_slides(lesson_dir: Path, narration_text: str) -> list[Path]:
     images_dir = lesson_dir / "images"
     ensure_dir(images_dir)
@@ -164,17 +245,6 @@ def make_placeholder_slides(lesson_dir: Path, narration_text: str) -> list[Path]
         slide_files.append(png_path)
 
     return slide_files
-
-
-def escape_xml(s: str) -> str:
-    # Minimal XML escaping for SVG text rendering
-    return (
-        s.replace("&", "&amp;")
-        .replace("<", "<")
-        .replace(">", ">")
-        .replace('"', "&quot;")
-        .replace("'", "&apos;")
-    )
 
 
 def build_scene_plan(lesson_dir: Path, slide_files: list[Path], fallback_per_slide: int) -> dict:
@@ -342,8 +412,14 @@ def build_lesson(lesson_id: str, canvas: Canvas, voice: str, placeholder_slide_d
     else:
         print(f"[skip] audio exists: {audio_path}")
 
-    # placeholder slides + plan
-    slide_pngs = make_placeholder_slides(lesson_dir, narration)
+    # Use PDF page images as slides when available, fallback to placeholder text slides
+    pdf_slides = make_pdf_slides(lesson_id, lesson_dir)
+    if pdf_slides:
+        slide_pngs = pdf_slides
+        print(f"[slides] {len(slide_pngs)} PDF page slides for lesson {lesson_id}")
+    else:
+        slide_pngs = make_placeholder_slides(lesson_dir, narration)
+        print(f"[slides] {len(slide_pngs)} placeholder slides for lesson {lesson_id}")
     build_scene_plan(lesson_dir, slide_pngs, fallback_per_slide=placeholder_slide_duration)
 
     out_mp4 = video_dir / f"lesson-{lesson_id}.mp4"
